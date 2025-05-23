@@ -1,0 +1,2392 @@
+[
+  {
+    "name": "places/ChIJncHO2rJ3DjkRcpsvIKu9si8",
+    "id": "ChIJncHO2rJ3DjkRcpsvIKu9si8",
+    "types": ["electric_vehicle_charging_station", "point_of_interest", "establishment"],
+    "nationalPhoneNumber": "080707 43743",
+    "internationalPhoneNumber": "+91 80707 43743",
+    "formattedAddress": "NH 44, in front of Neelkanth Star Karnal, Gharunda, Kutail, Haryana 132114, India",
+    "addressComponents": [
+      {
+        "longText": "Neelkanth Star Karnal",
+        "shortText": "Neelkanth Star Karnal",
+        "types": ["landmark"],
+        "languageCode": "en"
+      },
+      { "longText": "National Highway 44", "shortText": "NH 44", "types": ["route"], "languageCode": "en" },
+      { "longText": "Gharunda", "shortText": "Gharunda", "types": ["neighborhood", "political"], "languageCode": "en" },
+      { "longText": "Kutail", "shortText": "Kutail", "types": ["locality", "political"], "languageCode": "en" },
+      {
+        "longText": "Karnal",
+        "shortText": "Karnal",
+        "types": ["administrative_area_level_3", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Karnal Division",
+        "shortText": "Karnal Division",
+        "types": ["administrative_area_level_2", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Haryana",
+        "shortText": "HR",
+        "types": ["administrative_area_level_1", "political"],
+        "languageCode": "en"
+      },
+      { "longText": "India", "shortText": "IN", "types": ["country", "political"], "languageCode": "en" },
+      { "longText": "132114", "shortText": "132114", "types": ["postal_code"], "languageCode": "en-US" }
+    ],
+    "plusCode": { "globalCode": "7JXRJX2J+M7", "compoundCode": "JX2J+M7 Kutail, Haryana, India" },
+    "location": { "latitude": 29.601733399999997, "longitude": 76.98071929999999 },
+    "viewport": {
+      "low": { "latitude": 29.6003894197085, "longitude": 76.97943391970848 },
+      "high": { "latitude": 29.603087380291495, "longitude": 76.98213188029149 }
+    },
+    "rating": 3.9,
+    "googleMapsUri": "https://maps.google.com/?cid=3437018008314157938",
+    "websiteUri": "http://www.statiq.in/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [{ "open": { "day": 0, "hour": 0, "minute": 0 } }],
+      "weekdayDescriptions": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "utcOffsetMinutes": 330,
+    "adrFormatAddress": "<span class=\"street-address\">NH 44</span>, in front of Neelkanth Star Karnal, <span class=\"extended-address\">Gharunda</span>, <span class=\"locality\">Kutail</span>, <span class=\"region\">Haryana</span> <span class=\"postal-code\">132114</span>, <span class=\"country-name\">India</span>",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 26,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "iconBackgroundColor": "#7B9EB0",
+    "displayName": { "text": "Statiq Charging Station", "languageCode": "en" },
+    "primaryTypeDisplayName": { "text": "Electric Vehicle Charging Station", "languageCode": "en-US" },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": { "day": 3, "hour": 0, "minute": 0, "truncated": true, "date": { "year": 2024, "month": 6, "day": 26 } },
+          "close": { "day": 2, "hour": 23, "minute": 59, "truncated": true, "date": { "year": 2024, "month": 7, "day": 2 } }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "primaryType": "electric_vehicle_charging_station",
+    "shortFormattedAddress": "NH 44, Neelkanth Star Karnal, Gharunda, Kutail",
+    "reviews": [
+      {
+        "name": "places/ChIJncHO2rJ3DjkRcpsvIKu9si8/reviews/ChdDSUhNMG9nS0VJQ0FnSURxeWM2b3d3RRAB",
+        "relativePublishTimeDescription": "2 years ago",
+        "rating": 5,
+        "text": {
+          "text": "Very Good experience on charging\nGood support by Customer care also\nBetter experience then Tata Power charging station\nLocation is very Good for both side travellers  around 1km from Karnal toll.\nVery Good Ambience of Neelkanth Star Dhaba makes our Tea/ Meal Break Memorable",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Very Good experience on charging\nGood support by Customer care also\nBetter experience then Tata Power charging station\nLocation is very Good for both side travellers  around 1km from Karnal toll.\nVery Good Ambience of Neelkanth Star Dhaba makes our Tea/ Meal Break Memorable",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Sandeep Jamwal",
+          "uri": "https://www.google.com/maps/contrib/106523220835656272463/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4jXpbrvkAiNWBS3xZwXrVz9BW-sKf1Fsw70v2zXAzm00LO_lt=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2021-07-12T15:31:40Z"
+      },
+      {
+        "name": "places/ChIJncHO2rJ3DjkRcpsvIKu9si8/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1OGJyTTJ3RRAB",
+        "relativePublishTimeDescription": "8 months ago",
+        "rating": 5,
+        "text": { "text": "60KW installed this week… fast and easy", "languageCode": "en" },
+        "originalText": { "text": "60KW installed this week… fast and easy", "languageCode": "en" },
+        "authorAttribution": {
+          "displayName": "Sahil",
+          "uri": "https://www.google.com/maps/contrib/107687352386612711337/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIsb3w2Q5xz-WwjCK2_CNbs4EHMGqqxw4shXepTq5zASessOA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2023-10-26T04:12:08Z"
+      },
+      {
+        "name": "places/ChIJncHO2rJ3DjkRcpsvIKu9si8/reviews/ChZDSUhNMG9nS0VJQ0FnSURxOE5IaFlREAE",
+        "relativePublishTimeDescription": "2 years ago",
+        "rating": 5,
+        "text": {
+          "text": "Visited in June2021, with Nexon EV to charge at Statiq 50KW. The location of charger is odd as it has two CCS2 charging guns but very tight space to park two cars side by side as the cables are not long. As the charging place is the only place with shade, normal cars are parked there so need to waste time to ask them to move. The charging screen is difficult to read in daylight. The touch screen is very slow and unresponsive. The help on call was extremely useful and sorted out the issues of unresponsive screen system etc. But lost 30 mins on call and everything before it started charging. At 50KW it is a pretty fast charger. The dhaba is very nice to sit and eat wait while it charges quickly.\nUpdate- used it 3 more times in August2021. Worked without any issues. Fast charge till 95% and then it's slow charging. Need money in Statiq wallet, so top-up at home rather then try it at the location. Airtel signal can be patchy/slow which can cause issues/delays.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Visited in June2021, with Nexon EV to charge at Statiq 50KW. The location of charger is odd as it has two CCS2 charging guns but very tight space to park two cars side by side as the cables are not long. As the charging place is the only place with shade, normal cars are parked there so need to waste time to ask them to move. The charging screen is difficult to read in daylight. The touch screen is very slow and unresponsive. The help on call was extremely useful and sorted out the issues of unresponsive screen system etc. But lost 30 mins on call and everything before it started charging. At 50KW it is a pretty fast charger. The dhaba is very nice to sit and eat wait while it charges quickly.\nUpdate- used it 3 more times in August2021. Worked without any issues. Fast charge till 95% and then it's slow charging. Need money in Statiq wallet, so top-up at home rather then try it at the location. Airtel signal can be patchy/slow which can cause issues/delays.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Jawanak D",
+          "uri": "https://www.google.com/maps/contrib/101344892706124300933/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKjyW11qJ17GXHu_W3900jLyi6ECOdiyHR2uzfZ6r7OcLTx9jP=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2021-08-27T08:59:31Z"
+      },
+      {
+        "name": "places/ChIJncHO2rJ3DjkRcpsvIKu9si8/reviews/ChdDSUhNMG9nS0VJQ0FnSUM2Z1BfVTRBRRAB",
+        "relativePublishTimeDescription": "2 years ago",
+        "rating": 5,
+        "text": {
+          "text": "Excellent spot for a break. The car charging experience is smooth. The neelkanth star adjacent to it provides perfect place to relax, superb food, clean toilets, friendly staff. 👍",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Excellent spot for a break. The car charging experience is smooth. The neelkanth star adjacent to it provides perfect place to relax, superb food, clean toilets, friendly staff. 👍",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Addy",
+          "uri": "https://www.google.com/maps/contrib/104429870253606401717/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlNxhUl3YbJ-XrawK-69nYJ3eNjXzmYs3Bh8mx3FGjOugyLxJjXQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2021-08-27T10:13:30Z"
+      },
+      {
+        "name": "places/ChIJncHO2rJ3DjkRcpsvIKu9si8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNhaktpcC13RRAB",
+        "relativePublishTimeDescription": "2 years ago",
+        "rating": 5,
+        "text": {
+          "text": "the best ev charging company in the market.\n\ni can predict the will be the only ones who will successfully grow to be the single largest ev charging company.\n\ntremendous support at any hour of the day.\n\nexpanding fast working hard.\n\ntake a step in the clean travel direction with them",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "the best ev charging company in the market.\n\ni can predict the will be the only ones who will successfully grow to be the single largest ev charging company.\n\ntremendous support at any hour of the day.\n\nexpanding fast working hard.\n\ntake a step in the clean travel direction with them",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Anivesh Bhilotra",
+          "uri": "https://www.google.com/maps/contrib/105873994391550706247/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGgutfmgnngtywPFfd7aWn8FrzQ-PD7gZI7E2dXcgfss1DpNSV=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2021-07-24T14:18:11Z"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJncHO2rJ3DjkRcpsvIKu9si8/photos/AUc7tXVvsNZeyeocOJofndZpLbPmY2dj5IThbMgJruas6QNAnAIQhqBRiVC6xK7a_amBeTwAkOb9vvLb0Ofebgkme3RtKaqQtoY7qQyj5lyqwZOWKfPdO0OM75ucEfnOzzPz8meYv5VhR7FU5_dJZ9kZacqnNt9sqt-FIhAL",
+        "widthPx": 1640,
+        "heightPx": 924,
+        "authorAttributions": [
+          {
+            "displayName": "Statiq Charging Station",
+            "uri": "//maps.google.com/maps/contrib/114789533010232841153",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBoFEnw86erp0C-vRG9vEq98A2kjJTf46Fzf5jSLt-Z1etDg0=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJncHO2rJ3DjkRcpsvIKu9si8/photos/AUc7tXXuWjAY86Ju0PQpIk0QwLyZUjPPYXz_BpBGs_UX94AwFnbCHI7rBHBJNvYJzX_g_Zdgvf0Zx5n9IpTEGytEnB6BPbWh1jJ87S5yvBHmSU2Cdi8B9ERxuxV_dAy3-IayxKG2vbggoN6Vgt73NUDVzT-Y3KNW7WsVROXc",
+        "widthPx": 2000,
+        "heightPx": 1126,
+        "authorAttributions": [
+          {
+            "displayName": "Statiq Charging Station",
+            "uri": "//maps.google.com/maps/contrib/114789533010232841153",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBoFEnw86erp0C-vRG9vEq98A2kjJTf46Fzf5jSLt-Z1etDg0=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJncHO2rJ3DjkRcpsvIKu9si8/photos/AUc7tXWIFvNvwH5cc5WmAC6_gF4XWKlVISVT27x5lk3zKa2owNpA6UtM01Z2SL8lW_irb1EgRHr3ahVs9k7_kLeL2sfLBekkgQqdnEaI9d09RhV_7AVLFIDRS7kVHZvGBipU7-y_0v6o48dzsoPiVyX1KhY4w3DkbNZswzVv",
+        "widthPx": 3024,
+        "heightPx": 4032,
+        "authorAttributions": [
+          {
+            "displayName": "Sahil",
+            "uri": "//maps.google.com/maps/contrib/107687352386612711337",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIsb3w2Q5xz-WwjCK2_CNbs4EHMGqqxw4shXepTq5zASessOA=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJncHO2rJ3DjkRcpsvIKu9si8/photos/AUc7tXVVWbMf9bHcqWh8rTcDP4Sljt_IsjTPBbybL1J7zwBIgisLT4HmzgwNhbAgEGI9PixfuYyuncm17d0V7UDjQ-PLZTHjb4VW2lgAZnB5CuyVU8NkDqCiOYlBcqSZR9R3FN2tGGVxhFwkGwRFb3Qs3DqMXbjMQ-IyOsaT",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "authorAttributions": [
+          {
+            "displayName": "Pavneet singh",
+            "uri": "//maps.google.com/maps/contrib/104241959183562140500",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLrZhbrFvcEuNI3-tE02pMnL4BMJNdbb6qqwOIe7_VPSvga9g=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJncHO2rJ3DjkRcpsvIKu9si8/photos/AUc7tXVMEDBKfV2S3mA_fhoctRJsffO0UqjJNMolPfhjn-4wrLYMXRMDnzbCsE6wQt4I-5EqwmYZkenQHXLMHKP_vNGviPSgpW0kNLVmyC7MIbRzh1ANrTeQG8YnwREHEHcmCWIIreLTmuNWi9Uz51LFOcoV5VqUiyG6LEdq",
+        "widthPx": 1500,
+        "heightPx": 2000,
+        "authorAttributions": [
+          {
+            "displayName": "Statiq Charging Station",
+            "uri": "//maps.google.com/maps/contrib/114789533010232841153",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBoFEnw86erp0C-vRG9vEq98A2kjJTf46Fzf5jSLt-Z1etDg0=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJncHO2rJ3DjkRcpsvIKu9si8/photos/AUc7tXXzosgIEbA1StsnviWRZXCfIpa5EvslkVnr_NuF5EBfyq5RYAF2Er4E9Vcj_JmRZwPfDS9aZwgvXnsCNsbY3gUxKbvIa3l4XMjdkaQAsjUkNetf5vGsfwAwuz3LH_INmTt-v4yPtSDdCAan-gwWDP8DdeCjqc_BRf7s",
+        "widthPx": 1125,
+        "heightPx": 2000,
+        "authorAttributions": [
+          {
+            "displayName": "Statiq Charging Station",
+            "uri": "//maps.google.com/maps/contrib/114789533010232841153",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBoFEnw86erp0C-vRG9vEq98A2kjJTf46Fzf5jSLt-Z1etDg0=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJncHO2rJ3DjkRcpsvIKu9si8/photos/AUc7tXXWnDxN5xWQZ2-z0_FK3AorWDTETaLJTuBTlNULbhFf89WRxIEVmo8HlPGEzZ7cJ5RSNrLqFy2ls4RwhgEHbvIYy-40i0ixtYHrHuhmcV3cATr0Zj6vOdQurbUOWwuZ899VEK4w5bL8IwwllluRVedCHHkMHcdSkwdv",
+        "widthPx": 2000,
+        "heightPx": 1500,
+        "authorAttributions": [
+          {
+            "displayName": "Statiq Charging Station",
+            "uri": "//maps.google.com/maps/contrib/114789533010232841153",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBoFEnw86erp0C-vRG9vEq98A2kjJTf46Fzf5jSLt-Z1etDg0=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJncHO2rJ3DjkRcpsvIKu9si8/photos/AUc7tXXyyI6VlzzCp8WsCtZ1UAIJRrpekB5RWa9uL17h99IHM6MFWp-w0d07eSQMMUsmow5kMfzPOkwg3unJslpx0kr8_E-hN19m5pMcrPUSeP4FXwZ7vOPgU_aZeeau905LmyBj2YljjRst-w6DCW3kyeyfSt3hhmEVvv-R",
+        "widthPx": 2448,
+        "heightPx": 2448,
+        "authorAttributions": [
+          {
+            "displayName": "preetpal singh",
+            "uri": "//maps.google.com/maps/contrib/110262367563541669159",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUQljvQ6FZ2xHgYunrG5yU8wg1UI7OyEUDjosfAh4vR5LZPz_tr=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJncHO2rJ3DjkRcpsvIKu9si8/photos/AUc7tXUKIOlEyJNPYtiuOklF8cuAEIPXOsf7XSLAUT9bqy8StPOMF9PSx4Oqjj7OnEIFhmyiLU_lSC3HySeZNyP0U6XGLqa_L9yUkU4Jr6qQvBP-qCFyn8Zu3sqsQSBpz1VGziVn25WkmAjcvq3_PRJfI_vRpQwVPhXOru8Y",
+        "widthPx": 1500,
+        "heightPx": 2000,
+        "authorAttributions": [
+          {
+            "displayName": "Statiq Charging Station",
+            "uri": "//maps.google.com/maps/contrib/114789533010232841153",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBoFEnw86erp0C-vRG9vEq98A2kjJTf46Fzf5jSLt-Z1etDg0=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJncHO2rJ3DjkRcpsvIKu9si8/photos/AUc7tXVVJC7K5a8VJVbDjPAKO6QIJvFQJkAZS-lvymeyoFHHdjWHW8bDrd7kj8wyYfX0KhsEq3z9GwZZdQzZgJ2FaIRXHMWo3qDLz-rGraHd5E9vMZKg9KTGqrS6WYV-uMfy9MfxLFKjYfJSLJqT-lZRxHsHmg7C5_CHlitj",
+        "widthPx": 3024,
+        "heightPx": 4032,
+        "authorAttributions": [
+          {
+            "displayName": "Sahil",
+            "uri": "//maps.google.com/maps/contrib/107687352386612711337",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIsb3w2Q5xz-WwjCK2_CNbs4EHMGqqxw4shXepTq5zASessOA=s100-p-k-no-mo"
+          }
+        ]
+      }
+    ],
+    "restroom": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "evChargeOptions": {
+      "connectorCount": 2,
+      "connectorAggregation": [{ "type": "EV_CONNECTOR_TYPE_CCS_COMBO_2", "maxChargeRateKw": 50, "count": 2 }]
+    }
+  },
+  {
+    "name": "places/ChIJcfv-yyvbDTkRwF3ffvYCUV0",
+    "id": "ChIJcfv-yyvbDTkRwF3ffvYCUV0",
+    "types": ["electric_vehicle_charging_station", "point_of_interest", "establishment"],
+    "formattedAddress": "Skylark tourist complex, Ram Nagar, Tehsil Camp, Panipat, Haryana 132103, India",
+    "addressComponents": [
+      {
+        "longText": "Skylark tourist complex",
+        "shortText": "Skylark tourist complex",
+        "types": ["premise"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Ram Nagar",
+        "shortText": "Ram Nagar",
+        "types": ["sublocality_level_2", "sublocality", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Tehsil Camp",
+        "shortText": "Tehsil Camp",
+        "types": ["sublocality_level_1", "sublocality", "political"],
+        "languageCode": "en"
+      },
+      { "longText": "Panipat", "shortText": "Panipat", "types": ["locality", "political"], "languageCode": "en" },
+      {
+        "longText": "Panipat",
+        "shortText": "Panipat",
+        "types": ["administrative_area_level_3", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Karnal Division",
+        "shortText": "Karnal Division",
+        "types": ["administrative_area_level_2", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Haryana",
+        "shortText": "HR",
+        "types": ["administrative_area_level_1", "political"],
+        "languageCode": "en"
+      },
+      { "longText": "India", "shortText": "IN", "types": ["country", "political"], "languageCode": "en" },
+      { "longText": "132103", "shortText": "132103", "types": ["postal_code"], "languageCode": "en-US" }
+    ],
+    "plusCode": { "globalCode": "7JXRCX39+GW", "compoundCode": "CX39+GW Panipat, Haryana, India" },
+    "location": { "latitude": 29.4037785, "longitude": 76.9698502 },
+    "viewport": {
+      "low": { "latitude": 29.402451469708506, "longitude": 76.96844736970849 },
+      "high": { "latitude": 29.405149430291505, "longitude": 76.9711453302915 }
+    },
+    "rating": 3.7,
+    "googleMapsUri": "https://maps.google.com/?cid=6724158976354639296",
+    "websiteUri": "https://okayaev.com/",
+    "utcOffsetMinutes": 330,
+    "adrFormatAddress": "Skylark tourist complex, <span class=\"extended-address\">Ram Nagar, Tehsil Camp</span>, <span class=\"locality\">Panipat</span>, <span class=\"region\">Haryana</span> <span class=\"postal-code\">132103</span>, <span class=\"country-name\">India</span>",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 7,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "iconBackgroundColor": "#7B9EB0",
+    "displayName": { "text": "Electric Vehicle Charging Station", "languageCode": "en" },
+    "primaryTypeDisplayName": { "text": "Electric Vehicle Charging Station", "languageCode": "en-US" },
+    "primaryType": "electric_vehicle_charging_station",
+    "shortFormattedAddress": "Skylark tourist complex, Ram Nagar, Tehsil Camp, Panipat",
+    "reviews": [
+      {
+        "name": "places/ChIJcfv-yyvbDTkRwF3ffvYCUV0/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1cElxc2tRRRAB",
+        "relativePublishTimeDescription": "8 months ago",
+        "rating": 1,
+        "text": { "text": "That charger is offline\nNot working", "languageCode": "en" },
+        "originalText": { "text": "That charger is offline\nNot working", "languageCode": "en" },
+        "authorAttribution": {
+          "displayName": "Ravindra waliya",
+          "uri": "https://www.google.com/maps/contrib/111507379827515210825/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKjOgkosnSh5nXOJeDt4FOPgjf2ER1B0e13RtozdFdPOouCmw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2023-10-10T12:56:30Z"
+      },
+      {
+        "name": "places/ChIJcfv-yyvbDTkRwF3ffvYCUV0/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4Ny1HNWh3RRAB",
+        "relativePublishTimeDescription": "a year ago",
+        "rating": 5,
+        "text": { "text": "Great", "languageCode": "en" },
+        "originalText": { "text": "Great", "languageCode": "en" },
+        "authorAttribution": {
+          "displayName": "Deepanshu",
+          "uri": "https://www.google.com/maps/contrib/113600675957795573138/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWYa6Tx3U4LNbF-Maqx0Z8bJN8H6bqxZux0vL-z_iUTtBYKjqR=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-05-29T10:29:20Z"
+      },
+      {
+        "name": "places/ChIJcfv-yyvbDTkRwF3ffvYCUV0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMMGZpdF9BRRAB",
+        "relativePublishTimeDescription": "in the last week",
+        "rating": 1,
+        "authorAttribution": {
+          "displayName": "BALJEET CHHICHHOLIA",
+          "uri": "https://www.google.com/maps/contrib/102784843345182289280/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXcAHYlZijd5A1lxSLi_Dkhap6l247wi2q5kSPmcNmfNShxlSHQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-06-20T07:41:29Z"
+      },
+      {
+        "name": "places/ChIJcfv-yyvbDTkRwF3ffvYCUV0/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5dEpuUzF3RRAB",
+        "relativePublishTimeDescription": "3 months ago",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "Ankit Gahlyan",
+          "uri": "https://www.google.com/maps/contrib/118359329703402971880/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVk-9QWsmQ4nXL9bqpBDEL2tORNaPwhGsSWKO0mB5ngiVg2TF_s=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-03-03T03:40:07Z"
+      },
+      {
+        "name": "places/ChIJcfv-yyvbDTkRwF3ffvYCUV0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwcUozTnhnRRAB",
+        "relativePublishTimeDescription": "11 months ago",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "Mahesh Kumar",
+          "uri": "https://www.google.com/maps/contrib/115942863168583460917/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIfT_vvn0bi1LMIBeP8U0vqIjHEyezmBUCvymKqNskVQs2tafM=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2023-07-27T19:51:53Z"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJcfv-yyvbDTkRwF3ffvYCUV0/photos/AUc7tXUUNwaRWyXnYJORuBmrNuKu6eURniFMY2XPhsEl50rDQGT9QvSlUICL4v2l5VusNRG0jFsfth5OCgHYSIQU-kVEie_Mk6eD_nK0rQFBLr5K0K9rinNydIVWKZr-XSK1x8CFH_8OW8C_2KQkK5UET-H9i6c3gtS28Fin",
+        "widthPx": 2128,
+        "heightPx": 4608,
+        "authorAttributions": [
+          {
+            "displayName": "brijesh kumar",
+            "uri": "//maps.google.com/maps/contrib/112994339503309106654",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWnptBSFpdIeY7s9-A8LDurmBdAW2sgwmzPovfhJiYF9MpwgC7q=s100-p-k-no-mo"
+          }
+        ]
+      }
+    ],
+    "evChargeOptions": {
+      "connectorCount": 2,
+      "connectorAggregation": [
+        { "type": "EV_CONNECTOR_TYPE_TYPE_2", "maxChargeRateKw": 22, "count": 1 },
+        { "type": "EV_CONNECTOR_TYPE_CCS_COMBO_2", "maxChargeRateKw": 50, "count": 1 }
+      ]
+    }
+  },
+  {
+    "name": "places/ChIJrzyhSSVvDjkRsURxojiOktE",
+    "id": "ChIJrzyhSSVvDjkRsURxojiOktE",
+    "types": ["electric_vehicle_charging_station", "point_of_interest", "establishment"],
+    "nationalPhoneNumber": "080025 46735",
+    "internationalPhoneNumber": "+91 80025 46735",
+    "formattedAddress": "PXVH+Q2P, Karna Lake Rd, Uchana, Haryana 132001, India",
+    "addressComponents": [
+      { "longText": "PXVH+Q2P", "shortText": "PXVH+Q2P", "types": ["plus_code"], "languageCode": "en-US" },
+      { "longText": "Karna Lake Road", "shortText": "Karna Lake Rd", "types": ["route"], "languageCode": "en" },
+      { "longText": "Uchana", "shortText": "Uchana", "types": ["locality", "political"], "languageCode": "en" },
+      {
+        "longText": "Karnal",
+        "shortText": "Karnal",
+        "types": ["administrative_area_level_3", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Karnal Division",
+        "shortText": "Karnal Division",
+        "types": ["administrative_area_level_2", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Haryana",
+        "shortText": "HR",
+        "types": ["administrative_area_level_1", "political"],
+        "languageCode": "en"
+      },
+      { "longText": "India", "shortText": "IN", "types": ["country", "political"], "languageCode": "en" },
+      { "longText": "132001", "shortText": "132001", "types": ["postal_code"], "languageCode": "en-US" }
+    ],
+    "location": { "latitude": 29.744471899999997, "longitude": 76.9775793 },
+    "viewport": {
+      "low": { "latitude": 29.7431517197085, "longitude": 76.9762486697085 },
+      "high": { "latitude": 29.7458496802915, "longitude": 76.9789466302915 }
+    },
+    "rating": 3.1,
+    "googleMapsUri": "https://maps.google.com/?cid=15101288874421339313",
+    "websiteUri": "https://okayaev.com/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [{ "open": { "day": 0, "hour": 0, "minute": 0 } }],
+      "weekdayDescriptions": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "utcOffsetMinutes": 330,
+    "adrFormatAddress": "PXVH+Q2P, <span class=\"street-address\">Karna Lake Rd</span>, <span class=\"locality\">Uchana</span>, <span class=\"region\">Haryana</span> <span class=\"postal-code\">132001</span>, <span class=\"country-name\">India</span>",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 7,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "iconBackgroundColor": "#7B9EB0",
+    "displayName": { "text": "Okaya Charging Station", "languageCode": "en" },
+    "primaryTypeDisplayName": { "text": "Electric Vehicle Charging Station", "languageCode": "en-US" },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": { "day": 3, "hour": 0, "minute": 0, "truncated": true, "date": { "year": 2024, "month": 6, "day": 26 } },
+          "close": { "day": 2, "hour": 23, "minute": 59, "truncated": true, "date": { "year": 2024, "month": 7, "day": 2 } }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "primaryType": "electric_vehicle_charging_station",
+    "shortFormattedAddress": "PXVH+Q2P, Karna Lake Rd, Uchana",
+    "reviews": [
+      {
+        "name": "places/ChIJrzyhSSVvDjkRsURxojiOktE/reviews/ChdDSUhNMG9nS0VJQ0FnSURCNG9mN3RnRRAB",
+        "relativePublishTimeDescription": "a year ago",
+        "rating": 1,
+        "text": { "text": "Not working", "languageCode": "en" },
+        "originalText": { "text": "Not working", "languageCode": "en" },
+        "authorAttribution": {
+          "displayName": "Sanjeev Kumar",
+          "uri": "https://www.google.com/maps/contrib/115524059011283102328/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKNjI7SoLpGbUpKf8y66Lka-aieKbOzqX7sFQDyMm2jj-toOQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2023-01-15T11:53:36Z"
+      },
+      {
+        "name": "places/ChIJrzyhSSVvDjkRsURxojiOktE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlbHYtUDZBRRAB",
+        "relativePublishTimeDescription": "a year ago",
+        "rating": 1,
+        "text": { "text": "Not working", "languageCode": "en" },
+        "originalText": { "text": "Not working", "languageCode": "en" },
+        "authorAttribution": {
+          "displayName": "AMITESH MISHRA",
+          "uri": "https://www.google.com/maps/contrib/110427387030186844256/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKpj7D4TIY9yRmwP4ph5rfEuRG2PiSWz7v6zqhy7_PWF28lbA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2022-09-13T10:39:12Z"
+      },
+      {
+        "name": "places/ChIJrzyhSSVvDjkRsURxojiOktE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHcTZEMXVBRRAB",
+        "relativePublishTimeDescription": "2 years ago",
+        "rating": 4,
+        "text": { "text": "Only car chargers", "languageCode": "en" },
+        "originalText": { "text": "Only car chargers", "languageCode": "en" },
+        "authorAttribution": {
+          "displayName": "GOURAVG SONI",
+          "uri": "https://www.google.com/maps/contrib/104227107859805130881/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhk2Fi0ca_i4jxFIbG_3x5XUw3JG0JBPtp6vvICHv3Chll9VBL=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2021-11-09T15:13:22Z"
+      },
+      {
+        "name": "places/ChIJrzyhSSVvDjkRsURxojiOktE/reviews/ChdDSUhNMG9nS0VJQ0FnSUN0OV9icDN3RRAB",
+        "relativePublishTimeDescription": "4 months ago",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "Med Life pharmacy",
+          "uri": "https://www.google.com/maps/contrib/101955393406005340943/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXDVw1ZZWYgsQ2MFLP-LmxPq_atdNJfPElz9hqitLPhIzO3ZaE=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-02-01T13:28:51Z"
+      },
+      {
+        "name": "places/ChIJrzyhSSVvDjkRsURxojiOktE/reviews/ChZDSUhNMG9nS0VJQ0FnSURKenRMX1NREAE",
+        "relativePublishTimeDescription": "11 months ago",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "anshul maini",
+          "uri": "https://www.google.com/maps/contrib/106064491433587240405/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWcQ5pFl04saQFe7dNOkMRUlt4x82z5CYcr4z_twEV_aSBUr0kq=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2023-07-17T06:16:40Z"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJrzyhSSVvDjkRsURxojiOktE/photos/AUc7tXUDpl99dZnXuUxbTemNfIprR_rpXT-CsELReI3yA1DOXXuajHKKOcCSoV46LpbIqCvObt4y2aHD-LPMwiP66VjLYl7EmNeXvq7MNuCMXAgSuMrSezKF7liYphr8ysfHZTzUJF2eGZRGJBgAvJFdAvmADTQnWwvPNLRT",
+        "widthPx": 3024,
+        "heightPx": 4032,
+        "authorAttributions": [
+          {
+            "displayName": "Pavneet singh",
+            "uri": "//maps.google.com/maps/contrib/104241959183562140500",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLrZhbrFvcEuNI3-tE02pMnL4BMJNdbb6qqwOIe7_VPSvga9g=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJrzyhSSVvDjkRsURxojiOktE/photos/AUc7tXVWC_rVEh-PjrR_lcGUnB6ZEMZysXiT_N_btfFHqByrWJ6lf0f8nAwTBgT79QpqDawesFwzA4LyBGToNL0WjDf15c5-g0x6ADGqnVpC090DeWg0y2ALTG5ccmRRuL1Z5qtE2UhVuVLLsFQVBW0uIR8-Xqfw223sFed_",
+        "widthPx": 1080,
+        "heightPx": 1440,
+        "authorAttributions": [
+          {
+            "displayName": "Jayant Dhawan",
+            "uri": "//maps.google.com/maps/contrib/106557330588875835194",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUPyNyct9FtV8FEsd-Nqp8B_6sERsS25tPlIGvcQKdk_bJlujko_g=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJrzyhSSVvDjkRsURxojiOktE/photos/AUc7tXWaOFvI4Qxx_0RLBRN4IOe4XLQhf0AkMpGZ10mgPce9uBnJRih60_VI3KfTPdZ4SJCClf2xgIgcrko2nSFW3q4KucvkpzKk8Dcosqh-iFqfQ1PdVF4OB1YcLllL80eVf02_OA1Fd0My0uhoAAQvuBH3XVOvSCBc9761",
+        "widthPx": 3024,
+        "heightPx": 4032,
+        "authorAttributions": [
+          {
+            "displayName": "Pavneet singh",
+            "uri": "//maps.google.com/maps/contrib/104241959183562140500",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLrZhbrFvcEuNI3-tE02pMnL4BMJNdbb6qqwOIe7_VPSvga9g=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJrzyhSSVvDjkRsURxojiOktE/photos/AUc7tXVHqY-lQQ9jCrRF6CogBIhLGrBQ7RLVD8A2eV1UExbzvi46CaVwbyLesQJZhMdSMLZy75WtM_M0D8rveKjFZhaywxRgBzWMIgmM-riW7tNZzTNLk9Fpm6UPZ7vjZ_xChikjpnZPtNs654aAaoRACae3OjOkl9fhYe0H",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "authorAttributions": [
+          {
+            "displayName": "AMITESH MISHRA",
+            "uri": "//maps.google.com/maps/contrib/110427387030186844256",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKpj7D4TIY9yRmwP4ph5rfEuRG2PiSWz7v6zqhy7_PWF28lbA=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJrzyhSSVvDjkRsURxojiOktE/photos/AUc7tXVkXjAxlrSFKETgNX3Yi_188z6ktTcwRM8JForVlcsFMu2MbZ3NzUIiKyqILyRCV58Xwe4DW5weUH7GaOqm-EDhYcSnsDZCGIGK5p8i6lP6xAu3qpaVQNXDNDWTDy_FB_yYjHQIEIzfm3JEFKzdomSJpp0MWWzDBLbW",
+        "widthPx": 1080,
+        "heightPx": 1440,
+        "authorAttributions": [
+          {
+            "displayName": "Jayant Dhawan",
+            "uri": "//maps.google.com/maps/contrib/106557330588875835194",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUPyNyct9FtV8FEsd-Nqp8B_6sERsS25tPlIGvcQKdk_bJlujko_g=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJrzyhSSVvDjkRsURxojiOktE/photos/AUc7tXWvYrlpzEo40wUHRJZKMMf4xzpZL_l2RxXkh84NSn-R9xWSjxJjRB1lYhuHPAx-Mg2MZzJTa70muA-gMYbYaiaccTSPNlybDycLHhK4YnGq4U0874pWGLLhd2naYkN0UKFtueJfykK36uAV8a1wAtU_CryJ_Y70G4sw",
+        "widthPx": 1440,
+        "heightPx": 1080,
+        "authorAttributions": [
+          {
+            "displayName": "Jayant Dhawan",
+            "uri": "//maps.google.com/maps/contrib/106557330588875835194",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUPyNyct9FtV8FEsd-Nqp8B_6sERsS25tPlIGvcQKdk_bJlujko_g=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJrzyhSSVvDjkRsURxojiOktE/photos/AUc7tXWx32gbp2b6SppTe2o0ug0Gf4rzhLmqaKw3LMoSRubD_MMuspCqyFagNT-jsDKh-OfA7_NA5Re4ZkiC2mbAl8lTY6W5u2LUYD4Ax4CFi5JxR-zOisi_OMSLMkmmfIxZHJfWL6BVBtWa3DD7cGwNz29pyn4pYPOu2vDG",
+        "widthPx": 3024,
+        "heightPx": 4032,
+        "authorAttributions": [
+          {
+            "displayName": "Ajay Parkash",
+            "uri": "//maps.google.com/maps/contrib/110447775574429602343",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV85X5wkHMe0iThymO1H68JoqJANaEt4_vgXeL74QoDSo2eEop3AA=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJrzyhSSVvDjkRsURxojiOktE/photos/AUc7tXWjZv3QouZPwzXFZ_5IL5OF2yXKutfXjMOcrbtEoDGNBRRLks_EVokyY5xo7mNZEFoweeTC_epmJ2SxAuHH3U98ewz7UXfsZ143qMSoLP1lqGa9DVm1Pqbrhbw8DIWjiMylNlw6acQEwsPuY5TyLKwIosFWpat-X6wz",
+        "widthPx": 3024,
+        "heightPx": 4032,
+        "authorAttributions": [
+          {
+            "displayName": "Pavneet singh",
+            "uri": "//maps.google.com/maps/contrib/104241959183562140500",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLrZhbrFvcEuNI3-tE02pMnL4BMJNdbb6qqwOIe7_VPSvga9g=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJrzyhSSVvDjkRsURxojiOktE/photos/AUc7tXXPYToU2GOntLEBKa0zwBwQVonhv8TiQm7bjKp5uMGsxGawAfWtINfwKYTFYXAvbBS7P-dVVymy6yNRFcbAC_qeb5PoXHYaafmV0oA-QVkZqYLUqKkP9UfnkSN4YwtHZoTEa_cmTwkJyKht5-tVq6TA2m1U_qPIaDkS",
+        "widthPx": 1080,
+        "heightPx": 1440,
+        "authorAttributions": [
+          {
+            "displayName": "Jayant Dhawan",
+            "uri": "//maps.google.com/maps/contrib/106557330588875835194",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUPyNyct9FtV8FEsd-Nqp8B_6sERsS25tPlIGvcQKdk_bJlujko_g=s100-p-k-no-mo"
+          }
+        ]
+      }
+    ],
+    "evChargeOptions": {
+      "connectorCount": 2,
+      "connectorAggregation": [
+        { "type": "EV_CONNECTOR_TYPE_TYPE_2", "maxChargeRateKw": 22, "count": 1 },
+        { "type": "EV_CONNECTOR_TYPE_CCS_COMBO_2", "maxChargeRateKw": 50, "count": 1 }
+      ]
+    }
+  },
+  {
+    "name": "places/ChIJISjOo_5vDjkRegaivmHGaFs",
+    "id": "ChIJISjOo_5vDjkRegaivmHGaFs",
+    "types": [
+      "car_wash",
+      "electric_vehicle_charging_station",
+      "auto_parts_store",
+      "insurance_agency",
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "092509 00100",
+    "internationalPhoneNumber": "+91 92509 00100",
+    "formattedAddress": "Model Town, Shivpuri, Road, Daya Nand Colony, Model Town, Karnal, Haryana 132001, India",
+    "addressComponents": [
+      { "longText": "Road", "shortText": "Road", "types": ["route"], "languageCode": "en" },
+      {
+        "longText": "Daya Nand Colony",
+        "shortText": "Daya Nand Colony",
+        "types": ["neighborhood", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Model Town",
+        "shortText": "Model Town",
+        "types": ["sublocality_level_1", "sublocality", "political"],
+        "languageCode": "en"
+      },
+      { "longText": "Karnal", "shortText": "Karnal", "types": ["locality", "political"], "languageCode": "en" },
+      {
+        "longText": "Karnal",
+        "shortText": "Karnal",
+        "types": ["administrative_area_level_3", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Karnal Division",
+        "shortText": "Karnal Division",
+        "types": ["administrative_area_level_2", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Haryana",
+        "shortText": "HR",
+        "types": ["administrative_area_level_1", "political"],
+        "languageCode": "en"
+      },
+      { "longText": "India", "shortText": "IN", "types": ["country", "political"], "languageCode": "en" },
+      { "longText": "132001", "shortText": "132001", "types": ["postal_code"], "languageCode": "en-US" }
+    ],
+    "plusCode": { "globalCode": "7JXVP233+98", "compoundCode": "P233+98 Karnal, Haryana, India" },
+    "location": { "latitude": 29.703419399999998, "longitude": 77.0032982 },
+    "viewport": {
+      "low": { "latitude": 29.7020605197085, "longitude": 77.00194836970849 },
+      "high": { "latitude": 29.7047584802915, "longitude": 77.00464633029151 }
+    },
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=6586732578141767290",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        { "open": { "day": 0, "hour": 9, "minute": 0 }, "close": { "day": 0, "hour": 18, "minute": 0 } },
+        { "open": { "day": 1, "hour": 9, "minute": 0 }, "close": { "day": 1, "hour": 18, "minute": 0 } },
+        { "open": { "day": 2, "hour": 9, "minute": 0 }, "close": { "day": 2, "hour": 18, "minute": 0 } },
+        { "open": { "day": 3, "hour": 9, "minute": 0 }, "close": { "day": 3, "hour": 18, "minute": 0 } },
+        { "open": { "day": 4, "hour": 9, "minute": 0 }, "close": { "day": 4, "hour": 18, "minute": 0 } },
+        { "open": { "day": 5, "hour": 9, "minute": 0 }, "close": { "day": 5, "hour": 18, "minute": 0 } },
+        { "open": { "day": 6, "hour": 9, "minute": 0 }, "close": { "day": 6, "hour": 18, "minute": 0 } }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ]
+    },
+    "utcOffsetMinutes": 330,
+    "adrFormatAddress": "Model Town, Shivpuri, <span class=\"street-address\">Road</span>, <span class=\"extended-address\">Daya Nand Colony, Model Town</span>, <span class=\"locality\">Karnal</span>, <span class=\"region\">Haryana</span> <span class=\"postal-code\">132001</span>, <span class=\"country-name\">India</span>",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 161,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "iconBackgroundColor": "#7B9EB0",
+    "displayName": { "text": "Kamboj Automobiles and Spares", "languageCode": "en" },
+    "primaryTypeDisplayName": { "text": "Car Wash", "languageCode": "en-US" },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": { "day": 0, "hour": 9, "minute": 0, "date": { "year": 2024, "month": 6, "day": 30 } },
+          "close": { "day": 0, "hour": 18, "minute": 0, "date": { "year": 2024, "month": 6, "day": 30 } }
+        },
+        {
+          "open": { "day": 1, "hour": 9, "minute": 0, "date": { "year": 2024, "month": 7, "day": 1 } },
+          "close": { "day": 1, "hour": 18, "minute": 0, "date": { "year": 2024, "month": 7, "day": 1 } }
+        },
+        {
+          "open": { "day": 2, "hour": 9, "minute": 0, "date": { "year": 2024, "month": 7, "day": 2 } },
+          "close": { "day": 2, "hour": 18, "minute": 0, "date": { "year": 2024, "month": 7, "day": 2 } }
+        },
+        {
+          "open": { "day": 3, "hour": 9, "minute": 0, "date": { "year": 2024, "month": 6, "day": 26 } },
+          "close": { "day": 3, "hour": 18, "minute": 0, "date": { "year": 2024, "month": 6, "day": 26 } }
+        },
+        {
+          "open": { "day": 4, "hour": 9, "minute": 0, "date": { "year": 2024, "month": 6, "day": 27 } },
+          "close": { "day": 4, "hour": 18, "minute": 0, "date": { "year": 2024, "month": 6, "day": 27 } }
+        },
+        {
+          "open": { "day": 5, "hour": 9, "minute": 0, "date": { "year": 2024, "month": 6, "day": 28 } },
+          "close": { "day": 5, "hour": 18, "minute": 0, "date": { "year": 2024, "month": 6, "day": 28 } }
+        },
+        {
+          "open": { "day": 6, "hour": 9, "minute": 0, "date": { "year": 2024, "month": 6, "day": 29 } },
+          "close": { "day": 6, "hour": 18, "minute": 0, "date": { "year": 2024, "month": 6, "day": 29 } }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ]
+    },
+    "primaryType": "car_wash",
+    "shortFormattedAddress": "Model Town, Shivpuri, Road, Karnal",
+    "reviews": [
+      {
+        "name": "places/ChIJISjOo_5vDjkRegaivmHGaFs/reviews/ChdDSUhNMG9nS0VJQ0FnSUREOU1QbmpBRRAB",
+        "relativePublishTimeDescription": "2 months ago",
+        "rating": 5,
+        "text": {
+          "text": "Its been years we get our car washed here and each time they give the perfectly cleaned car❤. The are no issue about the quality of work they give. Owner and staaf are very friendly🥰 and the chargers are cheep for the quality the give us so they should increase the charges a bit more💰.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Its been years we get our car washed here and each time they give the perfectly cleaned car❤. The are no issue about the quality of work they give. Owner and staaf are very friendly🥰 and the chargers are cheep for the quality the give us so they should increase the charges a bit more💰.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Aryan",
+          "uri": "https://www.google.com/maps/contrib/104997892863373250752/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAJvMwnVlWBR77214OHycbhceKcDIMRnMAls77YfHb0fNp0ZoM=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2024-04-06T08:54:11Z"
+      },
+      {
+        "name": "places/ChIJISjOo_5vDjkRegaivmHGaFs/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4clltbXBnRRAB",
+        "relativePublishTimeDescription": "3 years ago",
+        "rating": 1,
+        "text": {
+          "text": "Service not upto the mark !\nGood in marketting but poor in servicing !\n\nPictures after servicing+washing to be noticed.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Service not upto the mark !\nGood in marketting but poor in servicing !\n\nPictures after servicing+washing to be noticed.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Karan Gulati",
+          "uri": "https://www.google.com/maps/contrib/102428666463906654531/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrZl7AhNjHFtnuFsYuUmapGOyhv4rWcPaMLIPO4gcZXmlhBXxyLA=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2020-07-25T12:05:00Z"
+      },
+      {
+        "name": "places/ChIJISjOo_5vDjkRegaivmHGaFs/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5cl9ibHNnRRAB",
+        "relativePublishTimeDescription": "3 months ago",
+        "rating": 5,
+        "text": { "text": "Best in class service ND price", "languageCode": "en" },
+        "originalText": { "text": "Best in class service ND price", "languageCode": "en" },
+        "authorAttribution": {
+          "displayName": "P.S. FASHION",
+          "uri": "https://www.google.com/maps/contrib/118058299890045505392/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJOBR-Lq5OtgTmNTTNPaFS5x9vnWFv4FTEHJBI1eiB4rm9E6A=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-03-11T12:35:14Z"
+      },
+      {
+        "name": "places/ChIJISjOo_5vDjkRegaivmHGaFs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsOGU2YWl3RRAB",
+        "relativePublishTimeDescription": "7 months ago",
+        "rating": 2,
+        "text": { "text": "The owner has got good communication skills. But yet to visit him.", "languageCode": "en" },
+        "originalText": {
+          "text": "The owner has got good communication skills. But yet to visit him.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Dr CB Singh",
+          "uri": "https://www.google.com/maps/contrib/105861261519528657810/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVB9U4j60D49oOLAgj9kR8fxoxWSmEeJJ6pzgP0TlL_9RZVTBqT8Q=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-11-21T04:42:41Z"
+      },
+      {
+        "name": "places/ChIJISjOo_5vDjkRegaivmHGaFs/reviews/ChdDSUhNMG9nS0VJQ0FnSURsMGN1a3RRRRAB",
+        "relativePublishTimeDescription": "6 months ago",
+        "rating": 5,
+        "text": { "text": "Very helpful people n every kind of motor help is excellent", "languageCode": "en" },
+        "originalText": { "text": "Very helpful people n every kind of motor help is excellent", "languageCode": "en" },
+        "authorAttribution": {
+          "displayName": "Amandeep Singh Mor",
+          "uri": "https://www.google.com/maps/contrib/110898323076434937870/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK9hE_rg4VI2SQyYnUpux19vZIdXioz5-j29rfVa0X1POxQww=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2023-12-02T12:00:09Z"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJISjOo_5vDjkRegaivmHGaFs/photos/AUc7tXXjJTi05IBw1EhuAw6cSyzzY2YZ4uKiZnJChuWfW72iFhdBWpNxY_e_ULEOsNL2q6tcdJwGqCLbl9jOjPU0MWXxATE7YNRryRavsIW6Cfm0B74Ps969iJI-LFxTozLUNqrKf89bFOJLxh8Xe5BR9nbpyZfjuRxmg4xT",
+        "widthPx": 1024,
+        "heightPx": 768,
+        "authorAttributions": [
+          {
+            "displayName": "Kamboj Automobiles and Spares",
+            "uri": "//maps.google.com/maps/contrib/108882455873369522462",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWAF3mAGtt2bxOvs_PvYSL-I_Gk_QUEWGlTOM-fwp05m4EfgQE=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJISjOo_5vDjkRegaivmHGaFs/photos/AUc7tXWwuySTQLo4y9vWDBsDBx88hh3BY_YvCyNccZjSH1d1guYUv_RqzuUgW-NJvIykcJ3PMt4XZhkkLY2qydecrC7ah38pSDozpLNtop3eWP7XcOj4tSUATcXNMGxLVcWQE-Mvsj6cZ3PnEZ-5jvRDPyRcjATILtl7E7HM",
+        "widthPx": 960,
+        "heightPx": 541,
+        "authorAttributions": [
+          {
+            "displayName": "Kamboj Automobiles and Spares",
+            "uri": "//maps.google.com/maps/contrib/111736068912416553346",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV2pY7-QGQMNaxLipwc4nxWg1IN2IHlYQ09bUtBO8P2zQfSoqA=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJISjOo_5vDjkRegaivmHGaFs/photos/AUc7tXUUwl1BNx5OoERqhVfJ9aErXMi4se075Aef33UxBucrtHy51QTovhpSltx39QP07XZDzFKHDbZSvEClUCA0JMX4a1tKN576x-365sCkI6pzOroGFidYt6Qu1NStYAiDFdaRpVrUqGvUby6Egogz9szxFFIw06muLH61",
+        "widthPx": 1920,
+        "heightPx": 1080,
+        "authorAttributions": [
+          {
+            "displayName": "Sandeep Singh Bhatia",
+            "uri": "//maps.google.com/maps/contrib/115508358475253417423",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWyoQlsxpZ4h5rGEyZipRf6pGixjB4h5cZcPen2uZJ8YBqu3rX-=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJISjOo_5vDjkRegaivmHGaFs/photos/AUc7tXWiqLi_qkZr6tqgH447y2aY8emx1IMLJm4md7drKlV3wXBY6SXqxwlWjiep9JubeRlV-VFwPrydK0_5BQRjbw0KaDBlfokTElfeksC5qwZcC7-jJD8ZekxqRQlgNJSJPIiCNKY02ERKAgvAGsYTo3hkaRY2WYlgcY8n",
+        "widthPx": 1920,
+        "heightPx": 1080,
+        "authorAttributions": [
+          {
+            "displayName": "Sandeep Singh Bhatia",
+            "uri": "//maps.google.com/maps/contrib/115508358475253417423",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWyoQlsxpZ4h5rGEyZipRf6pGixjB4h5cZcPen2uZJ8YBqu3rX-=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJISjOo_5vDjkRegaivmHGaFs/photos/AUc7tXUNPk8c2bTMLEb32wAhZVjWsbfS4U30qB2TescEa5zZfU1GWB1fb1Ti-8CSqlMNEr2M83PRrYAawSEgZfujAMWEYQasTTBlWWK2IDEdTfKis8MjW3sEDm0s-CDRBjRU5qfiblPosj1VGYtAxeDuO2d2XN_x8HR9hzCA",
+        "widthPx": 960,
+        "heightPx": 640,
+        "authorAttributions": [
+          {
+            "displayName": "Kamboj Automobiles and Spares",
+            "uri": "//maps.google.com/maps/contrib/108882455873369522462",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWAF3mAGtt2bxOvs_PvYSL-I_Gk_QUEWGlTOM-fwp05m4EfgQE=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJISjOo_5vDjkRegaivmHGaFs/photos/AUc7tXUFG3A16z1LSB9FH3AEcydpDN1QJ9kQgcBVXqv7u4BnE-VWTiihzBcgM9m_cqPYE3vALjyxNJ-tX77I706DFBqlQtu7WJ-qxNQ8_LMiWiduRDEz6kQA8tOlyh4PsIPKTaQMumchEtoVf1sUoqWNEa4kEP6oQyXfl7Fi",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "authorAttributions": [
+          {
+            "displayName": "PULKIT SEHRAWAT",
+            "uri": "//maps.google.com/maps/contrib/112192839857438553786",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ0MwGdMonY0EWH8pB0hNRhHOfmRP2LWsUdY5xc8RWPrcNxeA=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJISjOo_5vDjkRegaivmHGaFs/photos/AUc7tXU2ZA8I9sQBaTdR2Kkr3uX6io-PsCAj0E74bquQa-UlT1AHvN-67kpFIY5asEU1T_OKMSKBwUXyE1lKiQ0RRbx5tBMCiAyk4OPRSW1zgm8jdonK4dFxW-xYKEZ4xD0XqkibdLu0TEP354iFqWgicZeStXcWrDWyNksa",
+        "widthPx": 960,
+        "heightPx": 640,
+        "authorAttributions": [
+          {
+            "displayName": "Kamboj Automobiles and Spares",
+            "uri": "//maps.google.com/maps/contrib/108882455873369522462",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWAF3mAGtt2bxOvs_PvYSL-I_Gk_QUEWGlTOM-fwp05m4EfgQE=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJISjOo_5vDjkRegaivmHGaFs/photos/AUc7tXWMSsnlorBzttdaXkhA6fcRRi5IhAtqes5XVd-d9hrRT9L9xKKPFAUTywfOP6IassTYhxiVlqoq_JClrf-K4cREwfeAf_2e07Z8_5xm_-F66VPScvr8yT79mOfllGqxUSa11YPsP3PtDgnBrUbqedbjHR14bcGFpClJ",
+        "widthPx": 960,
+        "heightPx": 640,
+        "authorAttributions": [
+          {
+            "displayName": "Kamboj Automobiles and Spares",
+            "uri": "//maps.google.com/maps/contrib/108882455873369522462",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWAF3mAGtt2bxOvs_PvYSL-I_Gk_QUEWGlTOM-fwp05m4EfgQE=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJISjOo_5vDjkRegaivmHGaFs/photos/AUc7tXX2jJNOLvnV34JvXcsk_6hxNcWbdb1PUAZXvLvJFWIACHLGxz0iCWYRy_sT0em4WeSmGwLokXFekHmSSSa_eRgi38ERiUdtu7vzLCymH73XsWN9zSn-fjLYyl37DqaZhD4vT6CISWkvnnQQIXzlRJSDKMwOGiLjoOXo",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "authorAttributions": [
+          {
+            "displayName": "PULKIT SEHRAWAT",
+            "uri": "//maps.google.com/maps/contrib/112192839857438553786",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ0MwGdMonY0EWH8pB0hNRhHOfmRP2LWsUdY5xc8RWPrcNxeA=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJISjOo_5vDjkRegaivmHGaFs/photos/AUc7tXW9Ounmbp6EAcJhWcRzi7i-7Jf_Z3pB6s9pIqSMO9Z7w8diByB6jgdO0KKBqhL-nad1kB8kWD_5fJDxNPKA7ZzpiKrMtxURShMaMdQTcMFxoRTW1aY6UsoVA50yRTp_Z6soGaDeRvimAIzXZWiHMRB3ZvPEVf_q97AN",
+        "widthPx": 960,
+        "heightPx": 640,
+        "authorAttributions": [
+          {
+            "displayName": "Kamboj Automobiles and Spares",
+            "uri": "//maps.google.com/maps/contrib/108882455873369522462",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWAF3mAGtt2bxOvs_PvYSL-I_Gk_QUEWGlTOM-fwp05m4EfgQE=s100-p-k-no-mo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "places/ChIJ2ahOWKXbDTkRgAH-swZUYVM",
+    "id": "ChIJ2ahOWKXbDTkRgAH-swZUYVM",
+    "types": ["electric_vehicle_charging_station", "point_of_interest", "establishment"],
+    "formattedAddress": "VPO Teora GT Road, 9X8G+5R8, NH-1, 25 Sector Part 2, Sector 25 Phase 1, Huda, Panipat, Haryana 136135, India",
+    "addressComponents": [
+      { "longText": "9X8G+5R8", "shortText": "9X8G+5R8", "types": ["plus_code"], "languageCode": "en-US" },
+      { "longText": "NH-1", "shortText": "NH-1", "types": ["route"], "languageCode": "hi" },
+      {
+        "longText": "25 Sector Part 2",
+        "shortText": "25 Sector Part 2",
+        "types": ["neighborhood", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Sector 25 Phase 1",
+        "shortText": "Sector 25 Phase 1",
+        "types": ["sublocality_level_2", "sublocality", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Huda",
+        "shortText": "Huda",
+        "types": ["sublocality_level_1", "sublocality", "political"],
+        "languageCode": "en"
+      },
+      { "longText": "Panipat", "shortText": "Panipat", "types": ["locality", "political"], "languageCode": "en" },
+      {
+        "longText": "Panipat",
+        "shortText": "Panipat",
+        "types": ["administrative_area_level_3", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Karnal Division",
+        "shortText": "Karnal Division",
+        "types": ["administrative_area_level_2", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Haryana",
+        "shortText": "HR",
+        "types": ["administrative_area_level_1", "political"],
+        "languageCode": "en"
+      },
+      { "longText": "India", "shortText": "IN", "types": ["country", "political"], "languageCode": "en" },
+      { "longText": "136135", "shortText": "136135", "types": ["postal_code"], "languageCode": "en-US" }
+    ],
+    "location": { "latitude": 29.365411800000004, "longitude": 76.9770778 },
+    "viewport": {
+      "low": { "latitude": 29.364055619708502, "longitude": 76.9756894197085 },
+      "high": { "latitude": 29.366753580291498, "longitude": 76.97838738029151 }
+    },
+    "rating": 5,
+    "googleMapsUri": "https://maps.google.com/?cid=6008175765655257472",
+    "websiteUri": "https://www.bhel.com/",
+    "utcOffsetMinutes": 330,
+    "adrFormatAddress": "VPO Teora GT Road, 9X8G+5R8, <span class=\"street-address\">NH-1</span>, <span class=\"extended-address\">25 Sector Part 2, Sector 25 Phase 1, Huda</span>, <span class=\"locality\">Panipat</span>, <span class=\"region\">Haryana</span> <span class=\"postal-code\">136135</span>, <span class=\"country-name\">India</span>",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 1,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "iconBackgroundColor": "#7B9EB0",
+    "displayName": { "text": "BHEL Charging Station", "languageCode": "en" },
+    "primaryTypeDisplayName": { "text": "Electric Vehicle Charging Station", "languageCode": "en-US" },
+    "primaryType": "electric_vehicle_charging_station",
+    "shortFormattedAddress": "9X8G+5R8, VPO Teora GT Road, NH-1, Panipat",
+    "reviews": [
+      {
+        "name": "places/ChIJ2ahOWKXbDTkRgAH-swZUYVM/reviews/ChdDSUhNMG9nS0VJQ0FnSURkM3FlRG53RRAB",
+        "relativePublishTimeDescription": "4 months ago",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "Ankit Gahlyan",
+          "uri": "https://www.google.com/maps/contrib/118359329703402971880/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVk-9QWsmQ4nXL9bqpBDEL2tORNaPwhGsSWKO0mB5ngiVg2TF_s=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-02-24T03:09:46Z"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJ2ahOWKXbDTkRgAH-swZUYVM/photos/AUc7tXW71Us2SAcd7pdEqJBPZ-idWUtz6NXmQlz2uNaf7W9ZPlz11ppdHQamfVh88zkHadj_qKYlrfMdlqeV4qapdhLB_1fK3XXSzj6-7PTe-0b9Qk9LvYjrJF2Xr41MwpHUF_9jLhhpZzot4FrBMtR5E-XtneaKepe-Lmfq",
+        "widthPx": 3000,
+        "heightPx": 4000,
+        "authorAttributions": [
+          {
+            "displayName": "shivi ginni",
+            "uri": "//maps.google.com/maps/contrib/109454147208345173596",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWluC4IYujcGXwuwzUWO_vvPZ_qSFzKVQLDfVb_cIClvbzRKQ-C=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJ2ahOWKXbDTkRgAH-swZUYVM/photos/AUc7tXWNITv4HFA00kptwZ8yQJ1XHtpMk35lWr36_rVTMERKKI3GqO_bwwqN_ZTiQFH-ulI3gSQvYSkkwZWDyYyjvyA0lJAA1EXFCF0mxIPqPo9ZC_mrmkcvZqD9L9Oz5PDVUlepSRIg32O7aDpGYcLoF9sWKi14q9EHpP49",
+        "widthPx": 4000,
+        "heightPx": 3000,
+        "authorAttributions": [
+          {
+            "displayName": "shivi ginni",
+            "uri": "//maps.google.com/maps/contrib/109454147208345173596",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWluC4IYujcGXwuwzUWO_vvPZ_qSFzKVQLDfVb_cIClvbzRKQ-C=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJ2ahOWKXbDTkRgAH-swZUYVM/photos/AUc7tXXHHXx4sKCJsHODZzpfnY0nPIESFHVw0vY7snnJv3DKJnX1qpkdyDzT1pX6DQbR3M5jqpkEvdcygIiZULVTDhexO_ZZE-e5oiPBCXw2u28_dcx-nSYuvh280Y_EQqiMdOPbR8jQ46yUmmJl5PmnMyhcUUYYmkH-9PIj",
+        "widthPx": 1920,
+        "heightPx": 1080,
+        "authorAttributions": [
+          {
+            "displayName": "shivi ginni",
+            "uri": "//maps.google.com/maps/contrib/109454147208345173596",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWluC4IYujcGXwuwzUWO_vvPZ_qSFzKVQLDfVb_cIClvbzRKQ-C=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJ2ahOWKXbDTkRgAH-swZUYVM/photos/AUc7tXX69Y15TzIQSACDkidO8jWyqgAW8t6B5MsktGqvlTcnbEX4js1AnfaBtByxBWLM9fEY4FWxLri8ooub61OQrDuIElOoVgIebxizVGs6rbmrryg9Ndi6Mukr8zL-DyZ4WPKGfssQDz4OLnnKFIiOePAFNt60YMiXyRAo",
+        "widthPx": 3000,
+        "heightPx": 4000,
+        "authorAttributions": [
+          {
+            "displayName": "shivi ginni",
+            "uri": "//maps.google.com/maps/contrib/109454147208345173596",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWluC4IYujcGXwuwzUWO_vvPZ_qSFzKVQLDfVb_cIClvbzRKQ-C=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJ2ahOWKXbDTkRgAH-swZUYVM/photos/AUc7tXX4e7bY0EI9OlsX9mE_etrhStO2Paj0WjO7FkcmeTIfsIlYqVGhkh8pMv6_iljj32o4jOzZprjQEVgbrDCKdtUR-CA8T9C6ZKylEYZmU_9lU1YIW1UncDfK5UYOVUDE-107vGFilH3CSYM6kNNYhomxPxvaNOuu8JgF",
+        "widthPx": 3000,
+        "heightPx": 4000,
+        "authorAttributions": [
+          {
+            "displayName": "shivi ginni",
+            "uri": "//maps.google.com/maps/contrib/109454147208345173596",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWluC4IYujcGXwuwzUWO_vvPZ_qSFzKVQLDfVb_cIClvbzRKQ-C=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJ2ahOWKXbDTkRgAH-swZUYVM/photos/AUc7tXXbK_9PfZaOskfWZ7AVq0c3VcBGWP0zkYcW1pF7GAszID4OrSkJ2JQFL5zFG-WVw90tqyuSdDo2x-LdYdCCP_hjD7uNCxVE17ge6XN0xJZQ5n89On5AagYRS0duv75YgXVavPVvKraTgkuWV-2Umv_g1KRxu07aH73M",
+        "widthPx": 3000,
+        "heightPx": 4000,
+        "authorAttributions": [
+          {
+            "displayName": "shivi ginni",
+            "uri": "//maps.google.com/maps/contrib/109454147208345173596",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWluC4IYujcGXwuwzUWO_vvPZ_qSFzKVQLDfVb_cIClvbzRKQ-C=s100-p-k-no-mo"
+          }
+        ]
+      }
+    ],
+    "evChargeOptions": {
+      "connectorCount": 3,
+      "connectorAggregation": [
+        { "type": "EV_CONNECTOR_TYPE_OTHER", "maxChargeRateKw": 15, "count": 1 },
+        { "type": "EV_CONNECTOR_TYPE_CCS_COMBO_2", "maxChargeRateKw": 50, "count": 2 }
+      ]
+    }
+  },
+  {
+    "name": "places/ChIJnQtjRWfZDTkRpseNLHtxsMo",
+    "id": "ChIJnQtjRWfZDTkRpseNLHtxsMo",
+    "types": ["electric_vehicle_charging_station", "point_of_interest", "establishment"],
+    "formattedAddress": "FXMF+P2J, Srinagar - Kanyakumari Hwy, Karnal, Haryana 132114, India",
+    "addressComponents": [
+      { "longText": "FXMF+P2J", "shortText": "FXMF+P2J", "types": ["plus_code"], "languageCode": "en-US" },
+      {
+        "longText": "Srinagar - Kanyakumari Highway",
+        "shortText": "Srinagar - Kanyakumari Hwy",
+        "types": ["route"],
+        "languageCode": "en"
+      },
+      { "longText": "Karnal", "shortText": "Karnal", "types": ["locality", "political"], "languageCode": "en" },
+      {
+        "longText": "Karnal",
+        "shortText": "Karnal",
+        "types": ["administrative_area_level_3", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Karnal Division",
+        "shortText": "Karnal Division",
+        "types": ["administrative_area_level_2", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Haryana",
+        "shortText": "HR",
+        "types": ["administrative_area_level_1", "political"],
+        "languageCode": "en"
+      },
+      { "longText": "India", "shortText": "IN", "types": ["country", "political"], "languageCode": "en" },
+      { "longText": "132114", "shortText": "132114", "types": ["postal_code"], "languageCode": "en-US" }
+    ],
+    "location": { "latitude": 29.4843289, "longitude": 76.9725028 },
+    "viewport": {
+      "low": { "latitude": 29.483024519708504, "longitude": 76.9710620197085 },
+      "high": { "latitude": 29.4857224802915, "longitude": 76.9737599802915 }
+    },
+    "rating": 3.5,
+    "googleMapsUri": "https://maps.google.com/?cid=14605298365404923814",
+    "websiteUri": "https://efillelectric.com/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [{ "open": { "day": 0, "hour": 0, "minute": 0 } }],
+      "weekdayDescriptions": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "utcOffsetMinutes": 330,
+    "adrFormatAddress": "FXMF+P2J, <span class=\"street-address\">Srinagar - Kanyakumari Hwy</span>, <span class=\"locality\">Karnal</span>, <span class=\"region\">Haryana</span> <span class=\"postal-code\">132114</span>, <span class=\"country-name\">India</span>",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 8,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "iconBackgroundColor": "#7B9EB0",
+    "displayName": { "text": "E-fill Charging Station", "languageCode": "en" },
+    "primaryTypeDisplayName": { "text": "Electric Vehicle Charging Station", "languageCode": "en-US" },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": { "day": 3, "hour": 0, "minute": 0, "truncated": true, "date": { "year": 2024, "month": 6, "day": 26 } },
+          "close": { "day": 2, "hour": 23, "minute": 59, "truncated": true, "date": { "year": 2024, "month": 7, "day": 2 } }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "primaryType": "electric_vehicle_charging_station",
+    "shortFormattedAddress": "FXMF+P2J, Srinagar - Kanyakumari Hwy, Karnal",
+    "reviews": [
+      {
+        "name": "places/ChIJnQtjRWfZDTkRpseNLHtxsMo/reviews/ChZDSUhNMG9nS0VJQ0FnSURSdnNLclBBEAE",
+        "relativePublishTimeDescription": "a year ago",
+        "rating": 4,
+        "text": { "text": "Nice", "languageCode": "en" },
+        "originalText": { "text": "Nice", "languageCode": "en" },
+        "authorAttribution": {
+          "displayName": "Abhi Productions Welfare Trust",
+          "uri": "https://www.google.com/maps/contrib/104417260276901086158/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXpUDvBFM6iN7H5SF4W-w468vArWKUsSPe-B7iUXqLT0s7YGA24=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-04-26T08:19:25Z"
+      },
+      {
+        "name": "places/ChIJnQtjRWfZDTkRpseNLHtxsMo/reviews/ChdDSUhNMG9nS0VJQ0FnSUN0a0lub3VRRRAB",
+        "relativePublishTimeDescription": "5 months ago",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "Jagtar Singh Bhatia",
+          "uri": "https://www.google.com/maps/contrib/117177273385767999507/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVy6pjb9gAYv37LeOntDr4F880U7e0Stw_PvaEe_jYN18Su4uIdQQ=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2024-01-28T02:39:07Z"
+      },
+      {
+        "name": "places/ChIJnQtjRWfZDTkRpseNLHtxsMo/reviews/ChZDSUhNMG9nS0VJQ0FnSURxbTd2emZBEAE",
+        "relativePublishTimeDescription": "2 years ago",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "Parmod Kumar",
+          "uri": "https://www.google.com/maps/contrib/103766867403347519065/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhgalO7BIzggG6aJvmXE7Ir2N8IuzOid_buSzh_q-5oT73MLk=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2021-07-16T07:14:14Z"
+      },
+      {
+        "name": "places/ChIJnQtjRWfZDTkRpseNLHtxsMo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqcC16V2ZBEAE",
+        "relativePublishTimeDescription": "2 months ago",
+        "rating": 1,
+        "authorAttribution": {
+          "displayName": "Pranav Mittal",
+          "uri": "https://www.google.com/maps/contrib/106037637971349412734/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUmVOW-4ckSpNmYfRF7XOPE4Yhnq3NxAq3VldRttLrR_K319VxB=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2024-04-26T14:52:32Z"
+      },
+      {
+        "name": "places/ChIJnQtjRWfZDTkRpseNLHtxsMo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMMGZpYmRnEAE",
+        "relativePublishTimeDescription": "in the last week",
+        "rating": 1,
+        "authorAttribution": {
+          "displayName": "BALJEET CHHICHHOLIA",
+          "uri": "https://www.google.com/maps/contrib/102784843345182289280/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXcAHYlZijd5A1lxSLi_Dkhap6l247wi2q5kSPmcNmfNShxlSHQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-06-20T07:41:45Z"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJnQtjRWfZDTkRpseNLHtxsMo/photos/AUc7tXV_KdClZ3YRHcsHuReXC_9FRtw1dsZcEQTvOXA5WTyrg7KY-bE4gM0-xPYgQkWwbnYROC3ArmDWcoXfa4VHYSEOblIOAZVQacT4LT-EOPSeznSmK4P3LWu3I7lSAZkbbWA_zlDQ_ed4PkoHk1j2TlPQVv0i9F4tmthT",
+        "widthPx": 1280,
+        "heightPx": 960,
+        "authorAttributions": [
+          {
+            "displayName": "Akshay Kumar",
+            "uri": "//maps.google.com/maps/contrib/100416141688796205321",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWHjhCCXNKHgYzy1towOn73uzlbblZTrAacwq7hDVbZ3tfAq5Ri=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJnQtjRWfZDTkRpseNLHtxsMo/photos/AUc7tXVQt1CxlS3P088kPTFdZbDmZ10hwEYVW87j6LPCqEoIyi2Z2XtSBmE9J7vbSBaLILIHj6e7VPPqXxkbxf4454phivukidxCd0cJLaqAfj54PWvuk5H26zlJOVVu_SFkTfy2-znShZnVffSnf7LYWCHiBmRj5j4Cv1-V",
+        "widthPx": 960,
+        "heightPx": 1280,
+        "authorAttributions": [
+          {
+            "displayName": "Akshay Kumar",
+            "uri": "//maps.google.com/maps/contrib/100416141688796205321",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWHjhCCXNKHgYzy1towOn73uzlbblZTrAacwq7hDVbZ3tfAq5Ri=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJnQtjRWfZDTkRpseNLHtxsMo/photos/AUc7tXXJMGcoiZe_md7hXntUE_1i4F_ckBJ6Tx_h1EovpquaH3AxoK_Tl4bUKUwAFgWx9bzhnrs6MGD5gbuRDSaPNH5sw4KlPKZknYlLxWb5J3IyekXJ4O60pJR-riDwO46hbqjJEMDK3v4MFAGlc6zibxQ9S5cv8J_Ql6Mq",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "authorAttributions": [
+          {
+            "displayName": "Amit Rawat",
+            "uri": "//maps.google.com/maps/contrib/115248114003886787278",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXySJNNM4QWg2yZrrSEL3xLtAUcgVbUfH5u8TNsbhT68Mhc_ZA1xA=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJnQtjRWfZDTkRpseNLHtxsMo/photos/AUc7tXVsoQf5tXj8m_cs9N4RHud-ycdeyKk0zodhaoCI0XdfrRc5FvLqTu0n0KO2VFNApRzR8INgmxHXPHQ6D4VRdEpuU1CZt-scdxY0oehq9mYU9_HWUKacuj4YDMQF5pM2FrhI3Q5ETMPASgY0PLRKj7axTFHDwm4_3huI",
+        "widthPx": 960,
+        "heightPx": 1280,
+        "authorAttributions": [
+          {
+            "displayName": "Akshay Kumar",
+            "uri": "//maps.google.com/maps/contrib/100416141688796205321",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWHjhCCXNKHgYzy1towOn73uzlbblZTrAacwq7hDVbZ3tfAq5Ri=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJnQtjRWfZDTkRpseNLHtxsMo/photos/AUc7tXXGZmPHoGUsCqKbDTCJYEAZKd4rLidaymIW-MfPAFM17AdJEpQaUS-qyfwagP77_lo0zOBfv03pliO-aSsnw3d1PXdgELVAgTyTE8xwugl9HbG20Xlql_W1tk_c0-yUcg2xg25bao0NzcyFi9FvjMtTatf_lP0_60LS",
+        "widthPx": 520,
+        "heightPx": 1156,
+        "authorAttributions": [
+          {
+            "displayName": "Ajay Kaushik",
+            "uri": "//maps.google.com/maps/contrib/106867708475838923637",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXkf-JDsatDG9RREtKL3zCQRSbSji4Di64Qiz668SwNRFgkpM2oIg=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJnQtjRWfZDTkRpseNLHtxsMo/photos/AUc7tXVWF9XbWOGUg-ybUUIB2KXHGw1KWvVZpWZ7bS8km2U7lvIYRL2ws8f38Rc80asvsDTy2DfwpQ71ATCsP_fGFzBuivij4Ol_-Ub1gUhY4lLsPiHoRiBOoSmEPMSZ3unRxrZN0cHjbvNXtW83GJIU3mqywIn2mtsfMZnW",
+        "widthPx": 960,
+        "heightPx": 1280,
+        "authorAttributions": [
+          {
+            "displayName": "Akshay Kumar",
+            "uri": "//maps.google.com/maps/contrib/100416141688796205321",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWHjhCCXNKHgYzy1towOn73uzlbblZTrAacwq7hDVbZ3tfAq5Ri=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJnQtjRWfZDTkRpseNLHtxsMo/photos/AUc7tXXOiuXEvBhdBA58UKdiKyzI9anPp5lnEzmT1uVIeH7ZSejtuMS05yilti-MYJ7bAmDwVTCcQ1-Axr1j8iBBRbTFjmDMzfxf2zCyBT4sbUVbIwA_63Mh8tFo0Z8jsZjbixpQ80QclIw3fcMXaE19kJZ46gEvHwqq7ddG",
+        "widthPx": 1824,
+        "heightPx": 4000,
+        "authorAttributions": [
+          {
+            "displayName": "prince narwal",
+            "uri": "//maps.google.com/maps/contrib/117466286784729106451",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUg_pnw06ekTLKQHWb9Q5QfpJTO_nZFu1K30FeJnkwl-q53-iC0=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJnQtjRWfZDTkRpseNLHtxsMo/photos/AUc7tXX7EQ8tN3etb1DkHoa-yA9Ab28ExrVIYHMJ4vDkEKDNW6IgH-ZVZTh7gBI7-B2xgWKxkNkCxPhFRkZASYy2tl9lC8yA-Haw45Vp6y1JrMStsMxZ2fL3nN71ZMNtPwjNYWi8WnIdQXXI5_qL1rm61A7FH6KsdhtHCXOw",
+        "widthPx": 4000,
+        "heightPx": 1824,
+        "authorAttributions": [
+          {
+            "displayName": "prince narwal",
+            "uri": "//maps.google.com/maps/contrib/117466286784729106451",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUg_pnw06ekTLKQHWb9Q5QfpJTO_nZFu1K30FeJnkwl-q53-iC0=s100-p-k-no-mo"
+          }
+        ]
+      }
+    ],
+    "evChargeOptions": {
+      "connectorCount": 1,
+      "connectorAggregation": [{ "type": "EV_CONNECTOR_TYPE_CCS_COMBO_2", "maxChargeRateKw": 15, "count": 1 }]
+    }
+  },
+  {
+    "name": "places/ChIJ6wUq555vDjkRIkNrPRAYFyM",
+    "id": "ChIJ6wUq555vDjkRIkNrPRAYFyM",
+    "types": ["electric_vehicle_charging_station", "point_of_interest", "establishment"],
+    "nationalPhoneNumber": "1800 209 5161",
+    "internationalPhoneNumber": "+91 1800 209 5161",
+    "formattedAddress": "PXJG+JJX, NH 44, Uchana, Haryana 132001, India",
+    "addressComponents": [
+      { "longText": "PXJG+JJX", "shortText": "PXJG+JJX", "types": ["plus_code"], "languageCode": "en-US" },
+      { "longText": "National Highway 44", "shortText": "NH 44", "types": ["route"], "languageCode": "en" },
+      { "longText": "Uchana", "shortText": "Uchana", "types": ["locality", "political"], "languageCode": "en" },
+      {
+        "longText": "Karnal",
+        "shortText": "Karnal",
+        "types": ["administrative_area_level_3", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Karnal Division",
+        "shortText": "Karnal Division",
+        "types": ["administrative_area_level_2", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Haryana",
+        "shortText": "HR",
+        "types": ["administrative_area_level_1", "political"],
+        "languageCode": "en"
+      },
+      { "longText": "India", "shortText": "IN", "types": ["country", "political"], "languageCode": "en" },
+      { "longText": "132001", "shortText": "132001", "types": ["postal_code"], "languageCode": "en-US" }
+    ],
+    "location": { "latitude": 29.7316195, "longitude": 76.9766128 },
+    "viewport": {
+      "low": { "latitude": 29.730260969708503, "longitude": 76.9752634197085 },
+      "high": { "latitude": 29.7329589302915, "longitude": 76.9779613802915 }
+    },
+    "rating": 3.3,
+    "googleMapsUri": "https://maps.google.com/?cid=2528516173820805922",
+    "websiteUri": "https://www.tatapower.com/ezcharge/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [{ "open": { "day": 0, "hour": 0, "minute": 0 } }],
+      "weekdayDescriptions": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "utcOffsetMinutes": 330,
+    "adrFormatAddress": "PXJG+JJX, <span class=\"street-address\">NH 44</span>, <span class=\"locality\">Uchana</span>, <span class=\"region\">Haryana</span> <span class=\"postal-code\">132001</span>, <span class=\"country-name\">India</span>",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 4,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "iconBackgroundColor": "#7B9EB0",
+    "displayName": { "text": "Tata Power Charging Station", "languageCode": "en" },
+    "primaryTypeDisplayName": { "text": "Electric Vehicle Charging Station", "languageCode": "en-US" },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": { "day": 3, "hour": 0, "minute": 0, "truncated": true, "date": { "year": 2024, "month": 6, "day": 26 } },
+          "close": { "day": 2, "hour": 23, "minute": 59, "truncated": true, "date": { "year": 2024, "month": 7, "day": 2 } }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "primaryType": "electric_vehicle_charging_station",
+    "shortFormattedAddress": "PXJG+JJX, NH 44, Uchana",
+    "reviews": [
+      {
+        "name": "places/ChIJ6wUq555vDjkRIkNrPRAYFyM/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5NVBDUm5RRRAB",
+        "relativePublishTimeDescription": "3 months ago",
+        "rating": 3,
+        "text": {
+          "text": "The charger is not reliable. I have stopped over two times there and have not been able to charge my vehicle.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "The charger is not reliable. I have stopped over two times there and have not been able to charge my vehicle.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "surya prakash",
+          "uri": "https://www.google.com/maps/contrib/109303550867737485977/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIzoIaTg-RhqRnIIy0gJm7UeRvqLI2qb0073JPdRuCP1XZHKQ=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-03-02T12:29:19Z"
+      },
+      {
+        "name": "places/ChIJ6wUq555vDjkRIkNrPRAYFyM/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4d3ItUjJBRRAB",
+        "relativePublishTimeDescription": "a year ago",
+        "rating": 1,
+        "text": { "text": "Not working", "languageCode": "en" },
+        "originalText": { "text": "Not working", "languageCode": "en" },
+        "authorAttribution": {
+          "displayName": "Shubham Sood",
+          "uri": "https://www.google.com/maps/contrib/104417363723523551112/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLel0jfDmSKy6pI6pG8TVF_8It_CbwxsvyePA7CPs8kSUnnUg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2023-06-04T17:16:17Z"
+      },
+      {
+        "name": "places/ChIJ6wUq555vDjkRIkNrPRAYFyM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtdktyVXlRRRAB",
+        "relativePublishTimeDescription": "2 years ago",
+        "rating": 4,
+        "authorAttribution": {
+          "displayName": "Raaj Kalia",
+          "uri": "https://www.google.com/maps/contrib/115743037642722073983/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhgwipV7TMph3f_gtMnFhdVCOZS3cp9SCUN3ohTm5KSmWfCQ8Z=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2021-12-21T18:58:41Z"
+      },
+      {
+        "name": "places/ChIJ6wUq555vDjkRIkNrPRAYFyM/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyOHZQUk5nEAE",
+        "relativePublishTimeDescription": "2 years ago",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "Manu Mathew",
+          "uri": "https://www.google.com/maps/contrib/107689479421449915814/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWW9qdQ8EU498TZWTOQ-fPYQfXHlwlZ-jJjlO50A3DPdElvdEey=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2022-05-11T08:10:39Z"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJ6wUq555vDjkRIkNrPRAYFyM/photos/AUc7tXW3M-iPZcCT3-CCBH0Tat_KTBLrvUidsk5c6H8N0VgC8PTvHbGsXQpFheyO_WR_JoiEOUa0iKxIyFLVl_X5NU6_RcMNEHQljv_e0qmlZCrBnd3Xdd9r3FzM22JF0ubpIlskY6KWyDAevVpNuUfHennVTDVMudCvyNsx",
+        "widthPx": 4032,
+        "heightPx": 2268,
+        "authorAttributions": [
+          {
+            "displayName": "Manu Mathew",
+            "uri": "//maps.google.com/maps/contrib/107689479421449915814",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWW9qdQ8EU498TZWTOQ-fPYQfXHlwlZ-jJjlO50A3DPdElvdEey=s100-p-k-no-mo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "places/ChIJO2wiV2xvDjkR0ai24chwSSM",
+    "id": "ChIJO2wiV2xvDjkR0ai24chwSSM",
+    "types": ["electric_vehicle_charging_station", "point_of_interest", "establishment"],
+    "formattedAddress": "131 km Milestone, G. T, GT, Kaithal - Pundri - Karnal Rd, near Karna Lake, Karnal, Uchana, Haryana 132001, India",
+    "addressComponents": [
+      { "longText": "Karna Lake", "shortText": "Karna Lake", "types": ["landmark"], "languageCode": "en" },
+      {
+        "longText": "Kaithal - Pundri - Karnal Road",
+        "shortText": "Kaithal - Pundri - Karnal Rd",
+        "types": ["route"],
+        "languageCode": "en"
+      },
+      { "longText": "Karnal", "shortText": "Karnal", "types": ["locality", "political"], "languageCode": "en" },
+      {
+        "longText": "Karnal",
+        "shortText": "Karnal",
+        "types": ["administrative_area_level_3", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Karnal Division",
+        "shortText": "Karnal Division",
+        "types": ["administrative_area_level_2", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Haryana",
+        "shortText": "HR",
+        "types": ["administrative_area_level_1", "political"],
+        "languageCode": "en"
+      },
+      { "longText": "India", "shortText": "IN", "types": ["country", "political"], "languageCode": "en" },
+      { "longText": "132001", "shortText": "132001", "types": ["postal_code"], "languageCode": "en-US" }
+    ],
+    "plusCode": { "globalCode": "7JXRPXQG+67", "compoundCode": "PXQG+67 Karnal, Haryana, India" },
+    "location": { "latitude": 29.738004900000004, "longitude": 76.9756781 },
+    "viewport": {
+      "low": { "latitude": 29.736675169708498, "longitude": 76.9743339697085 },
+      "high": { "latitude": 29.739373130291494, "longitude": 76.9770319302915 }
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=2542687472709970129",
+    "websiteUri": "http://www.statiq.in/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [{ "open": { "day": 0, "hour": 0, "minute": 0 } }],
+      "weekdayDescriptions": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "utcOffsetMinutes": 330,
+    "adrFormatAddress": "131 km Milestone, G. T, GT, <span class=\"street-address\">Kaithal - Pundri - Karnal Rd</span>, near Karna Lake, <span class=\"locality\">Karnal, Uchana</span>, <span class=\"region\">Haryana</span> <span class=\"postal-code\">132001</span>, <span class=\"country-name\">India</span>",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 9,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "iconBackgroundColor": "#7B9EB0",
+    "displayName": { "text": "Statiq Charging Station", "languageCode": "en" },
+    "primaryTypeDisplayName": { "text": "Electric Vehicle Charging Station", "languageCode": "en-US" },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": { "day": 3, "hour": 0, "minute": 0, "truncated": true, "date": { "year": 2024, "month": 6, "day": 26 } },
+          "close": { "day": 2, "hour": 23, "minute": 59, "truncated": true, "date": { "year": 2024, "month": 7, "day": 2 } }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "primaryType": "electric_vehicle_charging_station",
+    "shortFormattedAddress": "131 km Milestone, G. T, GT, Kaithal - Pundri - Karnal Rd, Karna Lake, Karnal",
+    "reviews": [
+      {
+        "name": "places/ChIJO2wiV2xvDjkR0ai24chwSSM/reviews/ChdDSUhNMG9nS0VJQ0FnSUREaWZ6RXFBRRAB",
+        "relativePublishTimeDescription": "2 months ago",
+        "rating": 5,
+        "text": {
+          "text": "We Charged Nexon EV EMP LR 2023 today 12:30 AM There was amazing experience\nSecurity persons were very very cooperative\nIt was the fastest charger I ever used\nFrom 47 percent to 96 percent charging before a cup of tea",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "We Charged Nexon EV EMP LR 2023 today 12:30 AM There was amazing experience\nSecurity persons were very very cooperative\nIt was the fastest charger I ever used\nFrom 47 percent to 96 percent charging before a cup of tea",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Dr S S Tanwar",
+          "uri": "https://www.google.com/maps/contrib/113430594489362778256/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXHY5cNw4rDahupM4U_WLMlCuFoJ7ZMzfkrXRBr3CwecS4nKA0G=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-04-11T06:27:55Z"
+      },
+      {
+        "name": "places/ChIJO2wiV2xvDjkR0ai24chwSSM/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2dnBEX2F3EAE",
+        "relativePublishTimeDescription": "2 years ago",
+        "rating": 5,
+        "text": { "text": "Fabulous charger, cooperative staff and 24 X 7 availability", "languageCode": "en" },
+        "originalText": { "text": "Fabulous charger, cooperative staff and 24 X 7 availability", "languageCode": "en" },
+        "authorAttribution": {
+          "displayName": "Er Avinesh",
+          "uri": "https://www.google.com/maps/contrib/106466266128174754082/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPwGTFp4NMAkno3RMiL8S6ajuRNyypBzP5q6JLNSMENoXPtg98=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2021-09-30T20:34:33Z"
+      },
+      {
+        "name": "places/ChIJO2wiV2xvDjkR0ai24chwSSM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwa2JieGVREAE",
+        "relativePublishTimeDescription": "10 months ago",
+        "rating": 5,
+        "text": { "text": "Very efficiently charged my vehicle deserve 5 stars", "languageCode": "en" },
+        "originalText": { "text": "Very efficiently charged my vehicle deserve 5 stars", "languageCode": "en" },
+        "authorAttribution": {
+          "displayName": "RAJIV KUMAR",
+          "uri": "https://www.google.com/maps/contrib/106303688343720912629/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJFlnV7PjPze271_Xe0fazfsZ5F2RX-dD3a86-4eIhgz2Wfxw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2023-08-05T13:04:18Z"
+      },
+      {
+        "name": "places/ChIJO2wiV2xvDjkR0ai24chwSSM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHcTZENENBEAE",
+        "relativePublishTimeDescription": "2 years ago",
+        "rating": 5,
+        "text": {
+          "text": "I was there to charge my electric scooter but they offer only car charging.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "I was there to charge my electric scooter but they offer only car charging.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "GOURAVG SONI",
+          "uri": "https://www.google.com/maps/contrib/104227107859805130881/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhk2Fi0ca_i4jxFIbG_3x5XUw3JG0JBPtp6vvICHv3Chll9VBL=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2021-11-09T15:12:24Z"
+      },
+      {
+        "name": "places/ChIJO2wiV2xvDjkR0ai24chwSSM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSazhPdDR3RRAB",
+        "relativePublishTimeDescription": "a year ago",
+        "rating": 5,
+        "text": { "text": "It worked both the times we were there.", "languageCode": "en" },
+        "originalText": { "text": "It worked both the times we were there.", "languageCode": "en" },
+        "authorAttribution": {
+          "displayName": "Amit Kapur",
+          "uri": "https://www.google.com/maps/contrib/117834566008953103349/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUh0gKjmFUEz3uOcUtpGJm0s2bF-GT3DDXWidG8A0hbzEfc9F4n=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-04-10T01:13:13Z"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJO2wiV2xvDjkR0ai24chwSSM/photos/AUc7tXVTNtrfk9T_8oMZPO0qiMVqhSoATvXK8x7XZOI0t-NsRjIDMPUe-1nl5zdBPn2rev-xrRJRyLMHEplxIGHgxrBBnoAoTe1bNyf07KsW8MjZlJe-wB748MoIJi560KMlWfafFbiEy6t4tvuZXsEslaImLPuWzgBdWQUa",
+        "widthPx": 1920,
+        "heightPx": 1080,
+        "authorAttributions": [
+          {
+            "displayName": "Ashish",
+            "uri": "//maps.google.com/maps/contrib/113612530859377521343",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX3VV6K4HTwBfP7Gnm0veN0rIscraZo5QPmgbVqcKIdVBKTt4Qt=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJO2wiV2xvDjkR0ai24chwSSM/photos/AUc7tXWUdqQnU2lDp1tHF_ynYe86t6oGW2bR9q3ojxlcPF7ZEVx0y2ki7YQmvU0dY8TQGU31UY56RE-1NKLUVtshMJcgSqZEN14Pn3ZwdsmmCXf7I-E311IBlKHWoBXzqOf-A4uDywCdrK5aQCcfXVBNp2PCZmkBfmvtgpmb",
+        "widthPx": 1868,
+        "heightPx": 4000,
+        "authorAttributions": [
+          {
+            "displayName": "Mukesh Bhardwaj",
+            "uri": "//maps.google.com/maps/contrib/108420001560764183314",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVgCmfhcSTr5HJrhPKYaIEtKKVLTisX4y93wEc8wkMLd7C68GEi=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJO2wiV2xvDjkR0ai24chwSSM/photos/AUc7tXVwt1ENltf_USDcjDgguD5HIvD1THJ7-hORdVQHFkOi8kCzAk4XSC85_3dklae0E-A-RviXIUv23g7ruOZI9LDYZU0zxo620FHS7CCoOJBCN1AVsqRsSiDYiFL-wuiI9ae7fr_mbGxdg44l4dmo6UrN-yYUf5k3Wxjn",
+        "widthPx": 4032,
+        "heightPx": 1816,
+        "authorAttributions": [
+          {
+            "displayName": "Mukesh Bhardwaj",
+            "uri": "//maps.google.com/maps/contrib/108420001560764183314",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVgCmfhcSTr5HJrhPKYaIEtKKVLTisX4y93wEc8wkMLd7C68GEi=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJO2wiV2xvDjkR0ai24chwSSM/photos/AUc7tXWVVayN6osxUVPL5AIs26mrwDbW6kzO14FcdgmXBcFlg8xzh2JGm4aSdUp-Xp7g5aiV5xhsT7ERHusXTtuO8U7NfDwDPDZRCvEHUCU5O4tNeRV2PyyXDLs9vWOpbUM1TdJIl62ZRYllAK04VBJ5l1fTyc9pmMyCYOR1",
+        "widthPx": 1080,
+        "heightPx": 1920,
+        "authorAttributions": [
+          {
+            "displayName": "Er Avinesh",
+            "uri": "//maps.google.com/maps/contrib/106466266128174754082",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVPwGTFp4NMAkno3RMiL8S6ajuRNyypBzP5q6JLNSMENoXPtg98=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJO2wiV2xvDjkR0ai24chwSSM/photos/AUc7tXU_kuxkYhJZ3wpuw1wN5f3mbXklcbI4OtkGrnCNy-bWO40zF0_zDsSfZ1POibnW_ipSuP93KvByR60sN1EnHW1llZt2QK82Gah5C9uUzyO3eNov9wpD24r_JZ8qIQ_Besdzb4-YemEMhr7GTXzxX4XFYqA6G5nouS0p",
+        "widthPx": 1080,
+        "heightPx": 1920,
+        "authorAttributions": [
+          {
+            "displayName": "Ashish",
+            "uri": "//maps.google.com/maps/contrib/113612530859377521343",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX3VV6K4HTwBfP7Gnm0veN0rIscraZo5QPmgbVqcKIdVBKTt4Qt=s100-p-k-no-mo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "places/ChIJH_KimJAlDjkRilznMqqxltY",
+    "id": "ChIJH_KimJAlDjkRilznMqqxltY",
+    "types": ["electric_vehicle_charging_station", "point_of_interest", "establishment"],
+    "formattedAddress": "WHX5+PGF, Gumthala Garhu, Pehowa, Haryana 136030, India",
+    "addressComponents": [
+      { "longText": "WHX5+PGF", "shortText": "WHX5+PGF", "types": ["plus_code"], "languageCode": "en-US" },
+      {
+        "longText": "Gumthala Garhu",
+        "shortText": "Gumthala Garhu",
+        "types": ["locality", "political"],
+        "languageCode": "en"
+      },
+      { "longText": "Pehowa", "shortText": "Pehowa", "types": ["locality", "political"], "languageCode": "en" },
+      {
+        "longText": "Kurukshetra",
+        "shortText": "Kurukshetra",
+        "types": ["administrative_area_level_3", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Ambala Division",
+        "shortText": "Ambala Division",
+        "types": ["administrative_area_level_2", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Haryana",
+        "shortText": "HR",
+        "types": ["administrative_area_level_1", "political"],
+        "languageCode": "en"
+      },
+      { "longText": "India", "shortText": "IN", "types": ["country", "political"], "languageCode": "en" },
+      { "longText": "136030", "shortText": "136030", "types": ["postal_code"], "languageCode": "en-US" }
+    ],
+    "location": { "latitude": 29.949323300000003, "longitude": 76.5587967 },
+    "viewport": {
+      "low": { "latitude": 29.947975119708506, "longitude": 76.55746986970851 },
+      "high": { "latitude": 29.9506730802915, "longitude": 76.56016783029152 }
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=15462741715179756682",
+    "websiteUri": "https://edriveindia.com/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [{ "open": { "day": 0, "hour": 0, "minute": 0 } }],
+      "weekdayDescriptions": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "utcOffsetMinutes": 330,
+    "adrFormatAddress": "WHX5+PGF, <span class=\"locality\">Gumthala Garhu, Pehowa</span>, <span class=\"region\">Haryana</span> <span class=\"postal-code\">136030</span>, <span class=\"country-name\">India</span>",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 40,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "iconBackgroundColor": "#7B9EB0",
+    "displayName": { "text": "Bharat Petroleum , R.K Petro Point", "languageCode": "en" },
+    "primaryTypeDisplayName": { "text": "Electric Vehicle Charging Station", "languageCode": "en-US" },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": { "day": 3, "hour": 0, "minute": 0, "truncated": true, "date": { "year": 2024, "month": 6, "day": 26 } },
+          "close": { "day": 2, "hour": 23, "minute": 59, "truncated": true, "date": { "year": 2024, "month": 7, "day": 2 } }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "primaryType": "electric_vehicle_charging_station",
+    "shortFormattedAddress": "WHX5+PGF, Gumthala Garhu, Pehowa",
+    "reviews": [
+      {
+        "name": "places/ChIJH_KimJAlDjkRilznMqqxltY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsbXVuTkxREAE",
+        "relativePublishTimeDescription": "7 months ago",
+        "rating": 5,
+        "text": {
+          "text": "Nice petrol pump and nice location with ev charging station and park staff is very kind and helpful",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Nice petrol pump and nice location with ev charging station and park staff is very kind and helpful",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "VIKAS JAIN",
+          "uri": "https://www.google.com/maps/contrib/110825668368217818825/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXb31drvNsNBVjzp-sWHe1z7Trm8t6Si26dJ8shquw3sQ1yclWlAw=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2023-11-16T11:38:07Z"
+      },
+      {
+        "name": "places/ChIJH_KimJAlDjkRilznMqqxltY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBeXZ2U1hBEAE",
+        "relativePublishTimeDescription": "5 years ago",
+        "rating": 5,
+        "text": {
+          "text": "Nice place to fill your tank\nProper deisel and petrol\nGood quality\nFast service\nCold water\nFree air\nClean toilet",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Nice place to fill your tank\nProper deisel and petrol\nGood quality\nFast service\nCold water\nFree air\nClean toilet",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "yogesh goyal",
+          "uri": "https://www.google.com/maps/contrib/117695580353738862262/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLdc2ymQAQ-u-gSzUhRjnKKnLEPvAeFgXoWqP51-Zsd9siF7yrVQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2018-12-25T11:58:06Z"
+      },
+      {
+        "name": "places/ChIJH_KimJAlDjkRilznMqqxltY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHc0lHYVl3EAE",
+        "relativePublishTimeDescription": "2 years ago",
+        "rating": 5,
+        "text": {
+          "text": "Good service with genuine staff\nClean toilet and water available\nBest petrol disel with optimum density",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Good service with genuine staff\nClean toilet and water available\nBest petrol disel with optimum density",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Dheeraj Aggarwal",
+          "uri": "https://www.google.com/maps/contrib/111143403268204653879/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXoDy_X-7XFI12fkfgP5EI59x610F69DA9SnP67k4C6GE-sTEwa=s128-c0x00000000-cc-rp-mo-ba2"
+        },
+        "publishTime": "2021-10-18T04:21:14Z"
+      },
+      {
+        "name": "places/ChIJH_KimJAlDjkRilznMqqxltY/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtMkktUkJREAE",
+        "relativePublishTimeDescription": "9 months ago",
+        "rating": 4,
+        "text": { "text": "Pump with electrical charging point and a park all amazing", "languageCode": "en" },
+        "originalText": { "text": "Pump with electrical charging point and a park all amazing", "languageCode": "en" },
+        "authorAttribution": {
+          "displayName": "Rohit Sharma",
+          "uri": "https://www.google.com/maps/contrib/103242557718373346233/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6l7NdleVQDCf8xUxPsst3bqggfukSvtKfaRq6QnGEIo46nj9W=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2023-09-19T07:32:09Z"
+      },
+      {
+        "name": "places/ChIJH_KimJAlDjkRilznMqqxltY/reviews/ChZDSUhNMG9nS0VJQ0FnSURab1lUMEpBEAE",
+        "relativePublishTimeDescription": "8 months ago",
+        "rating": 5,
+        "text": { "text": "Best sarves", "languageCode": "en" },
+        "originalText": { "text": "Best sarves", "languageCode": "en" },
+        "authorAttribution": {
+          "displayName": "Ajay Dhanda",
+          "uri": "https://www.google.com/maps/contrib/108426138417710578083/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbk7Mm40fOOriJxBV56CZcLCeTrwO0xQ3uIDyGnzcQuOMpoXom=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2023-10-02T14:00:53Z"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJH_KimJAlDjkRilznMqqxltY/photos/AUc7tXUgj4zyl2Eq1-bDD_cUgs52AuZ_hP0L2A3qU22od7TIjatjCbVefnihZ7e3GkHt77w95O8673T0wYRTS-zFv-LtfAc9YmwDlc06_TlBOjAh9M7dMDhMo-raiU7fU0kniyB4l77sU0hmopDx2AW8c4R7tfET5AWaolej",
+        "widthPx": 1080,
+        "heightPx": 1920,
+        "authorAttributions": [
+          {
+            "displayName": "Rajat Saxena",
+            "uri": "//maps.google.com/maps/contrib/116523323285779882784",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJodgWbkehMCdv5xeX4K-1ZNrmduqawDYc8aNbv9RQVI7ziiw=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJH_KimJAlDjkRilznMqqxltY/photos/AUc7tXUgyBm3Xd297Ob3hzeuz1WB3MGZ944hWlNhowhLhNzZW33y6PoBmzQuAuSlRDR81bR4FCFPnIA2usZeMIm1P92MUL9jiVugcZIjC9E8eYZMuNd4zDueQJ4sW3_PplHU4XjawxEawDz1DjvUaLhIO99C0DSEUGLApCNd",
+        "widthPx": 4000,
+        "heightPx": 3000,
+        "authorAttributions": [
+          {
+            "displayName": "yogesh goyal",
+            "uri": "//maps.google.com/maps/contrib/117695580353738862262",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWLdc2ymQAQ-u-gSzUhRjnKKnLEPvAeFgXoWqP51-Zsd9siF7yrVQ=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJH_KimJAlDjkRilznMqqxltY/photos/AUc7tXX7B_AfFYy5VJGA0H4lwhHjYgs45pwWS2s7IVFAReXmv3N1DZhBAWocXczgsmqPnKSM-FvOCsf7azyB67EH6b7vr1et62k3u2nsdtPPjssoh-oISGqYKFU7luWT4B-B-FaL27NNkRWJllRMDFGhtObcwOUChuvI10Z7",
+        "widthPx": 1080,
+        "heightPx": 1920,
+        "authorAttributions": [
+          {
+            "displayName": "VIKAS JAIN",
+            "uri": "//maps.google.com/maps/contrib/110825668368217818825",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXb31drvNsNBVjzp-sWHe1z7Trm8t6Si26dJ8shquw3sQ1yclWlAw=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJH_KimJAlDjkRilznMqqxltY/photos/AUc7tXX2TwZdnzNeP1cmZUYLQQa_vq4E_7nTNB1cX5atnreAPNh6kA5hl_9A9BYa6ce6hlWxhfg1V4oQYfSAgoL1inhpASKjvmHnHaDn4ojhazVAwSC3dgqyh0eQGfKWS9myggbBzLGT0M_RdkqWtvmQWcvidkX6EEWYZkLf",
+        "widthPx": 1080,
+        "heightPx": 1920,
+        "authorAttributions": [
+          {
+            "displayName": "Singhwa Tak",
+            "uri": "//maps.google.com/maps/contrib/101611152992057972563",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVHcJTAYCxxB_A03skX24o0Kf7U7NOYGAo_iT9Ip6DgQqP2EHk=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJH_KimJAlDjkRilznMqqxltY/photos/AUc7tXXVwePr3UiQIIX_fdhY92kD7558kXlXdPaWYum9O--AcmSfEqkB2qfFiXUsVEolwyvfCJEnrGdNDdaEoDgT6Cd9qFhhqgPVp3vwDmi9OnYxyimKtn74amnKSDl_zlqpTp8apzw53yhTMdOX6Rk1uvwdg6Zqh0VoXKyV",
+        "widthPx": 1920,
+        "heightPx": 1080,
+        "authorAttributions": [
+          {
+            "displayName": "Mandeep Bhardwaj",
+            "uri": "//maps.google.com/maps/contrib/111736800412285456379",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWtSi9D1NNQ3wvu1B_PEI6J3Ur7Wuy6E5gKd5dSTnQpKwJ_HqSWww=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJH_KimJAlDjkRilznMqqxltY/photos/AUc7tXWLZ0aSGKCgSlDkPekIxCDFDsE78fGnfVEYMwNsyjBtFg2neOMtEGY5qWend7NA6t_ghtlLj6ciXlCvHeKe1-DN3WBtr9eFkTJDzPPHEWlh7FqrxQbmuBh3WpGG_dQ0sBi8lwQQWoDh6uNXigECyx3YsDrB8QLpr6pc",
+        "widthPx": 3468,
+        "heightPx": 4624,
+        "authorAttributions": [
+          {
+            "displayName": "Singhwa Tak",
+            "uri": "//maps.google.com/maps/contrib/101611152992057972563",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVHcJTAYCxxB_A03skX24o0Kf7U7NOYGAo_iT9Ip6DgQqP2EHk=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJH_KimJAlDjkRilznMqqxltY/photos/AUc7tXUxvajgDFdmj8AFqe2jD7rq7fsoHeSjRcyhbROBcYc2APtu4bV5tHy3iuU1lzCF6TDo9rLkZCo3w5xJO-fAnj3SDsf__MhA67I8PW0JEVBmMtK7UUiFFjdLraCWzWXnvRg0x-EpaIZwrf4o0UfWA4HPjSyWid-YogiX",
+        "widthPx": 4000,
+        "heightPx": 2250,
+        "authorAttributions": [
+          {
+            "displayName": "yogesh goyal",
+            "uri": "//maps.google.com/maps/contrib/117695580353738862262",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWLdc2ymQAQ-u-gSzUhRjnKKnLEPvAeFgXoWqP51-Zsd9siF7yrVQ=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJH_KimJAlDjkRilznMqqxltY/photos/AUc7tXWQw4XV91UJSNf8rdblPp0U-yhZEFkqUIQcbSlXkV7oVyq1pL-lGpehhUfl96tWpVm1mbh4Ov1tK8Q6qeGvmcrRGrzmdd1XGXkwRD1kb62Gn6X-RbNZ96Pxh7K__rLWcUvwrU6udNa-62BoJ-2cUhLyDRvnELLZy2tK",
+        "widthPx": 4000,
+        "heightPx": 2250,
+        "authorAttributions": [
+          {
+            "displayName": "yogesh goyal",
+            "uri": "//maps.google.com/maps/contrib/117695580353738862262",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWLdc2ymQAQ-u-gSzUhRjnKKnLEPvAeFgXoWqP51-Zsd9siF7yrVQ=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJH_KimJAlDjkRilznMqqxltY/photos/AUc7tXU_j4Wqx1l7g13akADaubTlaUnKMHSeGJrT4EWzUoLC6jlR1PLSFZUKTNXxK2EFmJ6myp7-yeE_DjL9wInvuaXls5WlWjWiWIdvDr5RURuV9Hytyl1V0s8pdzzQ_TBwivRVhlZ2rN6SZgAUT1cAUpYCcab7-bBuH3c9",
+        "widthPx": 4000,
+        "heightPx": 2250,
+        "authorAttributions": [
+          {
+            "displayName": "yogesh goyal",
+            "uri": "//maps.google.com/maps/contrib/117695580353738862262",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWLdc2ymQAQ-u-gSzUhRjnKKnLEPvAeFgXoWqP51-Zsd9siF7yrVQ=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJH_KimJAlDjkRilznMqqxltY/photos/AUc7tXVZkeZIA_-AKDcVYPxtoB5aFrm7_m86JnLyJeMtQatTEG-Kgp70oLfYlF8EpUmZ4ilz008gQjWEQfp7WeNAdHynaNh7t2DW4zK4kABUFF9zIgAQZnhiZ4lFvMekZQti7UdUqGMM0-ra5LjC3CaV2dQiwfQt7GeIhyZW",
+        "widthPx": 4000,
+        "heightPx": 2250,
+        "authorAttributions": [
+          {
+            "displayName": "yogesh goyal",
+            "uri": "//maps.google.com/maps/contrib/117695580353738862262",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWLdc2ymQAQ-u-gSzUhRjnKKnLEPvAeFgXoWqP51-Zsd9siF7yrVQ=s100-p-k-no-mo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "places/ChIJMQH5PP9vDjkRdT6v75q-w80",
+    "id": "ChIJMQH5PP9vDjkRdT6v75q-w80",
+    "types": ["electric_vehicle_charging_station", "point_of_interest", "establishment"],
+    "formattedAddress": "PXVF+X36 Haryana Tourism Resort, Grand Trunk Rd, Uchana, Haryana 132116, India",
+    "addressComponents": [
+      {
+        "longText": "Haryana Tourism Resort",
+        "shortText": "Haryana Tourism Resort",
+        "types": ["point_of_interest", "establishment"],
+        "languageCode": "en"
+      },
+      { "longText": "PXVF+X36", "shortText": "PXVF+X36", "types": ["plus_code"], "languageCode": "en-US" },
+      { "longText": "Grand Trunk Road", "shortText": "GT Road", "types": ["route"], "languageCode": "en" },
+      { "longText": "Uchana", "shortText": "Uchana", "types": ["locality", "political"], "languageCode": "en" },
+      {
+        "longText": "Karnal",
+        "shortText": "Karnal",
+        "types": ["administrative_area_level_3", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Karnal Division",
+        "shortText": "Karnal Division",
+        "types": ["administrative_area_level_2", "political"],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Haryana",
+        "shortText": "HR",
+        "types": ["administrative_area_level_1", "political"],
+        "languageCode": "en"
+      },
+      { "longText": "India", "shortText": "IN", "types": ["country", "political"], "languageCode": "en" },
+      { "longText": "132116", "shortText": "132116", "types": ["postal_code"], "languageCode": "en-US" }
+    ],
+    "location": { "latitude": 29.7449024, "longitude": 76.9726452 },
+    "viewport": {
+      "low": { "latitude": 29.7435395197085, "longitude": 76.9712791197085 },
+      "high": { "latitude": 29.746237480291498, "longitude": 76.9739770802915 }
+    },
+    "rating": 4.8,
+    "googleMapsUri": "https://maps.google.com/?cid=14826903970889285237",
+    "websiteUri": "https://www.bhel.com/",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [{ "open": { "day": 0, "hour": 0, "minute": 0 } }],
+      "weekdayDescriptions": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "utcOffsetMinutes": 330,
+    "adrFormatAddress": "PXVF+X36 Haryana Tourism Resort, <span class=\"street-address\">Grand Trunk Rd</span>, <span class=\"locality\">Uchana</span>, <span class=\"region\">Haryana</span> <span class=\"postal-code\">132116</span>, <span class=\"country-name\">India</span>",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 5,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "iconBackgroundColor": "#7B9EB0",
+    "displayName": { "text": "BHEL Charging Station", "languageCode": "en" },
+    "primaryTypeDisplayName": { "text": "Electric Vehicle Charging Station", "languageCode": "en-US" },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": { "day": 3, "hour": 0, "minute": 0, "truncated": true, "date": { "year": 2024, "month": 6, "day": 26 } },
+          "close": { "day": 2, "hour": 23, "minute": 59, "truncated": true, "date": { "year": 2024, "month": 7, "day": 2 } }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "primaryType": "electric_vehicle_charging_station",
+    "shortFormattedAddress": "PXVF+X36 Haryana Tourism Resort, Grand Trunk Rd, Uchana",
+    "reviews": [
+      {
+        "name": "places/ChIJMQH5PP9vDjkRdT6v75q-w80/reviews/ChZDSUhNMG9nS0VJQ0FnSURKcUxqbmNnEAE",
+        "relativePublishTimeDescription": "11 months ago",
+        "rating": 5,
+        "text": {
+          "text": "Perfect location on GT Road at Karnal, to charge your EV.. Go green 🚗🚕🚙",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Perfect location on GT Road at Karnal, to charge your EV.. Go green 🚗🚕🚙",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Manish Thukral",
+          "uri": "https://www.google.com/maps/contrib/108311067524124439328/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWcOrUjTgsHWhuqzY3_vbhK7i3WVYI9xmlj_4n7bl4QQS8MMCTC=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-07-09T23:55:41Z"
+      },
+      {
+        "name": "places/ChIJMQH5PP9vDjkRdT6v75q-w80/reviews/ChZDSUhNMG9nS0VJQ0FnSUM4NGFXZ0VREAE",
+        "relativePublishTimeDescription": "3 years ago",
+        "rating": 5,
+        "text": {
+          "text": "Charging station facility established in technical collaboration with BHEL at Haryana tourism complex. Fast charming available free of cost as of now. May attract fee at a later stage. Thanks to Haryana Government.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Charging station facility established in technical collaboration with BHEL at Haryana tourism complex. Fast charming available free of cost as of now. May attract fee at a later stage. Thanks to Haryana Government.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Akhilesh Kumar",
+          "uri": "https://www.google.com/maps/contrib/115922758662838812271/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJntZza_O9BlwZivJmEfZCzN-UNJOkbcTBOES36kXdcnzAYJg=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2020-07-09T15:43:48Z"
+      },
+      {
+        "name": "places/ChIJMQH5PP9vDjkRdT6v75q-w80/reviews/ChZDSUhNMG9nS0VJQ0FnSUNocjlyM1hBEAE",
+        "relativePublishTimeDescription": "a year ago",
+        "rating": 4,
+        "text": {
+          "text": "Electric car charging available here in oasis resorts, run haryana tourism. Thanks\nJatin  Kumar",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Electric car charging available here in oasis resorts, run haryana tourism. Thanks\nJatin  Kumar",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Jatin Kumar",
+          "uri": "https://www.google.com/maps/contrib/114140227727660952122/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUO4Pm_ZtU0PhtlY2zML1CRfBUyBxoRm7fa4a5qJ1gCm1HlONG=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-02-25T11:25:48Z"
+      },
+      {
+        "name": "places/ChIJMQH5PP9vDjkRdT6v75q-w80/reviews/ChZDSUhNMG9nS0VJQ0FnSURDbllfcUl3EAE",
+        "relativePublishTimeDescription": "3 years ago",
+        "rating": 5,
+        "text": { "text": "Free Electric Vehicle Charging Station provided by Haryana Govt.", "languageCode": "en" },
+        "originalText": { "text": "Free Electric Vehicle Charging Station provided by Haryana Govt.", "languageCode": "en" },
+        "authorAttribution": {
+          "displayName": "Anshul Narang",
+          "uri": "https://www.google.com/maps/contrib/114622094899441411840/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCGD1RtldjTOZGv6b6w1jDruTdUQQbcsH8lTZ_jpbmLMmlnyht=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2020-10-07T20:22:26Z"
+      },
+      {
+        "name": "places/ChIJMQH5PP9vDjkRdT6v75q-w80/reviews/ChdDSUhNMG9nS0VJQ0FnSURKenRLUGxnRRAB",
+        "relativePublishTimeDescription": "11 months ago",
+        "rating": 5,
+        "authorAttribution": {
+          "displayName": "anshul maini",
+          "uri": "https://www.google.com/maps/contrib/106064491433587240405/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWcQ5pFl04saQFe7dNOkMRUlt4x82z5CYcr4z_twEV_aSBUr0kq=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2023-07-17T06:16:35Z"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJMQH5PP9vDjkRdT6v75q-w80/photos/AUc7tXUSuXaqtTTLHfP2b7u4GMtTzZWnrSV6sYKtKRWyh-o6qNQ91CNQebI469cqGYBAdfwPOQp6CQi-xFNPVZKkXJKfppIWfgt2qPHYrA5ceU3Er6yFjZ0OPY_gsOcue9CtACdXIr4vPxC-DuH4KSgkZ_ku3fPzdh_CE5Wf",
+        "widthPx": 1920,
+        "heightPx": 1080,
+        "authorAttributions": [
+          {
+            "displayName": "Manish Thukral",
+            "uri": "//maps.google.com/maps/contrib/108311067524124439328",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWcOrUjTgsHWhuqzY3_vbhK7i3WVYI9xmlj_4n7bl4QQS8MMCTC=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJMQH5PP9vDjkRdT6v75q-w80/photos/AUc7tXWlOSntP77N-SXRROdRn-57TDA8KVRUTul1cseuN4qEPQ-huwJY7ODFM1qdNYFos-1-QbN4ciUzAK3N8Gh4881XkTZiJp2QJ3eyKHtPJoj_yrKl1S_JnC1ZTVqbV4tV69zxjvSOJG7ukBm2y052sO_kQ8ygjiuk83_e",
+        "widthPx": 3472,
+        "heightPx": 4640,
+        "authorAttributions": [
+          {
+            "displayName": "Jatin Kumar",
+            "uri": "//maps.google.com/maps/contrib/114140227727660952122",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUUO4Pm_ZtU0PhtlY2zML1CRfBUyBxoRm7fa4a5qJ1gCm1HlONG=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJMQH5PP9vDjkRdT6v75q-w80/photos/AUc7tXVCQpH1vn0trk7Y8QsgPHvTD4PH4mjFs1CL7QG47At5pNMiX0TK3rQMp4YavdJXvkUDoqJ_pnJiOlSlxL3w7PSFsyOaqIiog7zz8LpndUiX0-ovldKdd7tb6yJ4HZ-prG248dOPgESdIE6-UhlF0cWA3-P0Dr6BrMKt",
+        "widthPx": 3472,
+        "heightPx": 4640,
+        "authorAttributions": [
+          {
+            "displayName": "Jatin Kumar",
+            "uri": "//maps.google.com/maps/contrib/114140227727660952122",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUUO4Pm_ZtU0PhtlY2zML1CRfBUyBxoRm7fa4a5qJ1gCm1HlONG=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJMQH5PP9vDjkRdT6v75q-w80/photos/AUc7tXXgbsCaO9bSy0S4A_-tD5uPlZdgo9mNEd_bBT0waiQ7EoUaW4Ib4g56xxKYcw6CxopUigkQJ6jmrhOmvwK-MWKmo3nWcKY2fVPgLBhrG4GKK_TsrpQgCmgwWZF2yGg0VQl-LCJwUTHoR4rMBnQfTjw_dLd7K_kMLD0E",
+        "widthPx": 1080,
+        "heightPx": 1920,
+        "authorAttributions": [
+          {
+            "displayName": "DEEPAK DHIMAN",
+            "uri": "//maps.google.com/maps/contrib/112999485520464534012",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUl13i5ZW-KhoWY3HHkBqvxuz7xFfycJsbrDXfp23Ln-51zvt3L=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJMQH5PP9vDjkRdT6v75q-w80/photos/AUc7tXWb57dLLe2vyWUuxK-PglonUsa7mWtWqA8153pmAO-yGaFb652gQ8tughvTrpxsN9vei-jZgO_SSIvGkbfDi6-a15lkKOoqfIJx5i19jo_cLBzerCM1dZHBOhkRnT12-3l1zUBJPVmv07sjBQKOSjxGyU7GFUXpgoFi",
+        "widthPx": 4896,
+        "heightPx": 6528,
+        "authorAttributions": [
+          {
+            "displayName": "Jatin Kumar",
+            "uri": "//maps.google.com/maps/contrib/114140227727660952122",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUUO4Pm_ZtU0PhtlY2zML1CRfBUyBxoRm7fa4a5qJ1gCm1HlONG=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJMQH5PP9vDjkRdT6v75q-w80/photos/AUc7tXXmghtBNuisn2psJwjNQIxKRUKQJbnn2yELIFLFwUZT8ZrvaRBxyPt0kBqcYpeTrmWKaxVmBzrz-701Jndoz4Fnvmh1SbweX4UHAQnQYbq5busgRX2FboNOOrSinGzTWZ-KVs45iQaNJBm688iLQbBxiMwoTNB5lDlA",
+        "widthPx": 1920,
+        "heightPx": 1080,
+        "authorAttributions": [
+          {
+            "displayName": "DEEPAK DHIMAN",
+            "uri": "//maps.google.com/maps/contrib/112999485520464534012",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUl13i5ZW-KhoWY3HHkBqvxuz7xFfycJsbrDXfp23Ln-51zvt3L=s100-p-k-no-mo"
+          }
+        ]
+      }
+    ],
+    "evChargeOptions": {
+      "connectorCount": 10,
+      "connectorAggregation": [
+        { "type": "EV_CONNECTOR_TYPE_OTHER", "maxChargeRateKw": 15, "count": 2 },
+        { "type": "EV_CONNECTOR_TYPE_OTHER", "maxChargeRateKw": 3.299999952316284, "count": 6 },
+        { "type": "EV_CONNECTOR_TYPE_TYPE_2", "maxChargeRateKw": 22, "count": 1 },
+        { "type": "EV_CONNECTOR_TYPE_CCS_COMBO_2", "maxChargeRateKw": 50, "count": 1 }
+      ]
+    }
+  }
+]
